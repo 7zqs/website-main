@@ -19,7 +19,7 @@ body {
     display: flex;
     flex-direction: row;
     width: 100%;          /* allows shrinking */
-    max-width: 800px;     /* fixed size limit */
+    max-width: 1000px;     /* fixed size limit */
     margin: auto;    /* centered horizontally */
 }
 
@@ -51,6 +51,7 @@ ul { /* lists */
 li { /* list objects */
     padding: 5px;
     background-color: #9dae90;
+    color: #b6db71;
 }
 ul li {
     margin-bottom: 5px;
@@ -68,8 +69,9 @@ ul p {
 .main-box {
     padding: 15px;
     background-color: #F8F8D7;
-    height: 700px;
+    height: auto;
     width: 70%;
+    word-wrap: break-word;
 }
 
 
@@ -77,6 +79,3 @@ ul p {
     text-align: center;
 }
 
-#mainpage {
-    color: #b6db71;
-}

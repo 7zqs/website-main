@@ -60,8 +60,8 @@ def evaluate_guess(guess, target):
     }
 
 # ---------- ROUTES ----------
-@app.route("/", methods=["GET", "POST"])
-def index():
+@app.route("/Wordlemon", methods=["GET", "POST"])
+def wordlemon():
     # Reset the game if session does not have a target (fresh start or script restart)
     # Always start fresh if no game exists
     if "target" not in session:
@@ -150,7 +150,7 @@ def index():
 
 
     return render_template(
-        "index.html",
+        "wordlemon.html",
         guesses=session.get("guesses", []),
         attribute_order=ATTRIBUTE_ORDER,
         guess_count=len(session.get("guesses", [])),
@@ -161,6 +161,14 @@ def index():
         finished_card=finished_card
     )
 # --------------------------------------------------
+@app.route("/", methods=["GET", "POST"])
+def index():
+    
+    return render_template(
+        "index.html"
+    )
+    
+
 
 if __name__ == "__main__":
     app.run(debug=True)
