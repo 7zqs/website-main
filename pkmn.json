@@ -1,0 +1,12614 @@
+[
+  {
+	"dex": 1,
+	"name": "Bulbasaur",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Chlorophyll"
+	],
+	"bst": 318,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 2,
+	"name": "Ivysaur",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Chlorophyll"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 3,
+	"name": "Venusaur",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Chlorophyll"
+	],
+	"bst": 525,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 4,
+	"name": "Charmander",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Solar-Power"
+	],
+	"bst": 309,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 5,
+	"name": "Charmeleon",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Solar-Power"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 6,
+	"name": "Charizard",
+	"types": [
+	  "Fire",
+	  "Flying"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Solar-Power"
+	],
+	"bst": 534,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Sky",
+	  "Volcanic/Fiery"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 7,
+	"name": "Squirtle",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Rain-Dish"
+	],
+	"bst": 314,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 8,
+	"name": "Wartortle",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Rain-Dish"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 9,
+	"name": "Blastoise",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Rain-Dish"
+	],
+	"bst": 530,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 10,
+	"name": "Caterpie",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Shield-Dust",
+	  "Run-Away"
+	],
+	"bst": 195,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 11,
+	"name": "Metapod",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Shed-Skin"
+	],
+	"bst": 205,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 12,
+	"name": "Butterfree",
+	"types": [
+	  "Bug",
+	  "Flying"
+	],
+	"abilities": [
+	  "Compound-Eyes",
+	  "Tinted-Lens"
+	],
+	"bst": 395,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 13,
+	"name": "Weedle",
+	"types": [
+	  "Bug",
+	  "Poison"
+	],
+	"abilities": [
+	  "Shield-Dust",
+	  "Run-Away"
+	],
+	"bst": 195,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 14,
+	"name": "Kakuna",
+	"types": [
+	  "Bug",
+	  "Poison"
+	],
+	"abilities": [
+	  "Shed-Skin"
+	],
+	"bst": 205,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 15,
+	"name": "Beedrill",
+	"types": [
+	  "Bug",
+	  "Poison"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Sniper"
+	],
+	"bst": 395,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 16,
+	"name": "Pidgey",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Tangled-Feet",
+	  "Big-Pecks"
+	],
+	"bst": 251,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Sky"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 17,
+	"name": "Pidgeotto",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Tangled-Feet",
+	  "Big-Pecks"
+	],
+	"bst": 349,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Sky"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 18,
+	"name": "Pidgeot",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Tangled-Feet",
+	  "Big-Pecks"
+	],
+	"bst": 479,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Sky"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 19,
+	"name": "Rattata",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Guts",
+	  "Hustle"
+	],
+	"bst": 253,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 20,
+	"name": "Raticate",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Guts",
+	  "Hustle"
+	],
+	"bst": 413,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 21,
+	"name": "Spearow",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Sniper"
+	],
+	"bst": 262,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Sky"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 22,
+	"name": "Fearow",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Sniper"
+	],
+	"bst": 442,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Sky"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 23,
+	"name": "Ekans",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Shed-Skin",
+	  "Unnerve"
+	],
+	"bst": 288,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 24,
+	"name": "Arbok",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Shed-Skin",
+	  "Unnerve"
+	],
+	"bst": 448,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 25,
+	"name": "Pikachu",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Static",
+	  "Lightning-Rod"
+	],
+	"bst": 320,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 26,
+	"name": "Raichu",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Static",
+	  "Lightning-Rod"
+	],
+	"bst": 485,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 27,
+	"name": "Sandshrew",
+	"types": [
+	  "Ground"
+	],
+	"abilities": [
+	  "Sand-Veil",
+	  "Sand-Rush"
+	],
+	"bst": 300,
+	"evo-stages": 2,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 28,
+	"name": "Sandslash",
+	"types": [
+	  "Ground"
+	],
+	"abilities": [
+	  "Sand-Veil",
+	  "Sand-Rush"
+	],
+	"bst": 450,
+	"evo-stages": 2,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 29,
+	"name": "Nidoran-F",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Poison-Point",
+	  "Rivalry",
+	  "Hustle"
+	],
+	"bst": 275,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 30,
+	"name": "Nidorina",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Poison-Point",
+	  "Rivalry",
+	  "Hustle"
+	],
+	"bst": 365,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 31,
+	"name": "Nidoqueen",
+	"types": [
+	  "Poison",
+	  "Ground"
+	],
+	"abilities": [
+	  "Poison-Point",
+	  "Rivalry",
+	  "Sheer-Force"
+	],
+	"bst": 505,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 32,
+	"name": "Nidoran-M",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Poison-Point",
+	  "Rivalry",
+	  "Hustle"
+	],
+	"bst": 273,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 33,
+	"name": "Nidorino",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Poison-Point",
+	  "Rivalry",
+	  "Hustle"
+	],
+	"bst": 365,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 34,
+	"name": "Nidoking",
+	"types": [
+	  "Poison",
+	  "Ground"
+	],
+	"abilities": [
+	  "Poison-Point",
+	  "Rivalry",
+	  "Sheer-Force"
+	],
+	"bst": 505,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 35,
+	"name": "Clefairy",
+	"types": [
+	  "Fairy"
+	],
+	"abilities": [
+	  "Cute-Charm",
+	  "Magic-Guard",
+	  "Friend-Guard"
+	],
+	"bst": 323,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 36,
+	"name": "Clefable",
+	"types": [
+	  "Fairy"
+	],
+	"abilities": [
+	  "Cute-Charm",
+	  "Magic-Guard",
+	  "Unaware"
+	],
+	"bst": 483,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 37,
+	"name": "Vulpix",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Flash-Fire",
+	  "Drought"
+	],
+	"bst": 299,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 38,
+	"name": "Ninetales",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Flash-Fire",
+	  "Drought"
+	],
+	"bst": 505,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 39,
+	"name": "Jigglypuff",
+	"types": [
+	  "Normal",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Cute-Charm",
+	  "Competitive",
+	  "Friend-Guard"
+	],
+	"bst": 270,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 40,
+	"name": "Wigglytuff",
+	"types": [
+	  "Normal",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Cute-Charm",
+	  "Competitive",
+	  "Frisk"
+	],
+	"bst": 435,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 41,
+	"name": "Zubat",
+	"types": [
+	  "Poison",
+	  "Flying"
+	],
+	"abilities": [
+	  "Inner-Focus",
+	  "Infiltrator"
+	],
+	"bst": 245,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 42,
+	"name": "Golbat",
+	"types": [
+	  "Poison",
+	  "Flying"
+	],
+	"abilities": [
+	  "Inner-Focus",
+	  "Infiltrator"
+	],
+	"bst": 455,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 43,
+	"name": "Oddish",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Run-Away"
+	],
+	"bst": 320,
+	"evo-stages": 4,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 44,
+	"name": "Gloom",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Stench"
+	],
+	"bst": 395,
+	"evo-stages": 4,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 45,
+	"name": "Vileplume",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Effect-Spore"
+	],
+	"bst": 490,
+	"evo-stages": 4,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 46,
+	"name": "Paras",
+	"types": [
+	  "Bug",
+	  "Grass"
+	],
+	"abilities": [
+	  "Effect-Spore",
+	  "Dry-Skin",
+	  "Damp"
+	],
+	"bst": 285,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 47,
+	"name": "Parasect",
+	"types": [
+	  "Bug",
+	  "Grass"
+	],
+	"abilities": [
+	  "Effect-Spore",
+	  "Dry-Skin",
+	  "Damp"
+	],
+	"bst": 405,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 48,
+	"name": "Venonat",
+	"types": [
+	  "Bug",
+	  "Poison"
+	],
+	"abilities": [
+	  "Compound-Eyes",
+	  "Tinted-Lens",
+	  "Run-Away"
+	],
+	"bst": 305,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 49,
+	"name": "Venomoth",
+	"types": [
+	  "Bug",
+	  "Poison"
+	],
+	"abilities": [
+	  "Shield-Dust",
+	  "Tinted-Lens",
+	  "Wonder-Skin"
+	],
+	"bst": 450,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 50,
+	"name": "Diglett",
+	"types": [
+	  "Ground"
+	],
+	"abilities": [
+	  "Sand-Veil",
+	  "Arena-Trap",
+	  "Sand-Force"
+	],
+	"bst": 265,
+	"evo-stages": 2,
+	"habitats": [
+	  "Cave",
+	  "Underground"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 51,
+	"name": "Dugtrio",
+	"types": [
+	  "Ground"
+	],
+	"abilities": [
+	  "Sand-Veil",
+	  "Arena-Trap",
+	  "Sand-Force"
+	],
+	"bst": 425,
+	"evo-stages": 2,
+	"habitats": [
+	  "Cave",
+	  "Underground"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 52,
+	"name": "Meowth",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Pickup",
+	  "Technician",
+	  "Unnerve"
+	],
+	"bst": 290,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 53,
+	"name": "Persian",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Limber",
+	  "Technician",
+	  "Unnerve"
+	],
+	"bst": 440,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 54,
+	"name": "Psyduck",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Damp",
+	  "Cloud-Nine",
+	  "Swift-Swim"
+	],
+	"bst": 320,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 55,
+	"name": "Golduck",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Damp",
+	  "Cloud-Nine",
+	  "Swift-Swim"
+	],
+	"bst": 500,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 56,
+	"name": "Mankey",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Vital-Spirit",
+	  "Anger-Point",
+	  "Defiant"
+	],
+	"bst": 305,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Mountain"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 57,
+	"name": "Primeape",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Vital-Spirit",
+	  "Anger-Point",
+	  "Defiant"
+	],
+	"bst": 455,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Mountain"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 58,
+	"name": "Growlithe",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Flash-Fire",
+	  "Justified"
+	],
+	"bst": 350,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 59,
+	"name": "Arcanine",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Flash-Fire",
+	  "Justified"
+	],
+	"bst": 555,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 60,
+	"name": "Poliwag",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Water-Absorb",
+	  "Damp",
+	  "Swift-Swim"
+	],
+	"bst": 300,
+	"evo-stages": 4,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 61,
+	"name": "Poliwhirl",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Water-Absorb",
+	  "Damp",
+	  "Swift-Swim"
+	],
+	"bst": 385,
+	"evo-stages": 4,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 62,
+	"name": "Poliwrath",
+	"types": [
+	  "Water",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Water-Absorb",
+	  "Damp",
+	  "Swift-Swim"
+	],
+	"bst": 510,
+	"evo-stages": 4,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 63,
+	"name": "Abra",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Synchronize",
+	  "Inner-Focus",
+	  "Magic-Guard"
+	],
+	"bst": 310,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 64,
+	"name": "Kadabra",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Synchronize",
+	  "Inner-Focus",
+	  "Magic-Guard"
+	],
+	"bst": 400,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 65,
+	"name": "Alakazam",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Synchronize",
+	  "Inner-Focus",
+	  "Magic-Guard"
+	],
+	"bst": 500,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 66,
+	"name": "Machop",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Guts",
+	  "No-Guard",
+	  "Steadfast"
+	],
+	"bst": 305,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 67,
+	"name": "Machoke",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Guts",
+	  "No-Guard",
+	  "Steadfast"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 68,
+	"name": "Machamp",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Guts",
+	  "No-Guard",
+	  "Steadfast"
+	],
+	"bst": 505,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 69,
+	"name": "Bellsprout",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Gluttony"
+	],
+	"bst": 300,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Mountain"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 70,
+	"name": "Weepinbell",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Gluttony"
+	],
+	"bst": 390,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Mountain"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 71,
+	"name": "Victreebel",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Gluttony"
+	],
+	"bst": 490,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Mountain"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 72,
+	"name": "Tentacool",
+	"types": [
+	  "Water",
+	  "Poison"
+	],
+	"abilities": [
+	  "Clear-Body",
+	  "Liquid-Ooze",
+	  "Rain-Dish"
+	],
+	"bst": 335,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 73,
+	"name": "Tentacruel",
+	"types": [
+	  "Water",
+	  "Poison"
+	],
+	"abilities": [
+	  "Clear-Body",
+	  "Liquid-Ooze",
+	  "Rain-Dish"
+	],
+	"bst": 515,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 74,
+	"name": "Geodude",
+	"types": [
+	  "Rock",
+	  "Ground"
+	],
+	"abilities": [
+	  "Rock-Head",
+	  "Sturdy",
+	  "Sand-Veil"
+	],
+	"bst": 300,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Underground"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 75,
+	"name": "Graveler",
+	"types": [
+	  "Rock",
+	  "Ground"
+	],
+	"abilities": [
+	  "Rock-Head",
+	  "Sturdy",
+	  "Sand-Veil"
+	],
+	"bst": 390,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Underground"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 76,
+	"name": "Golem",
+	"types": [
+	  "Rock",
+	  "Ground"
+	],
+	"abilities": [
+	  "Rock-Head",
+	  "Sturdy",
+	  "Sand-Veil"
+	],
+	"bst": 495,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Underground"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 77,
+	"name": "Ponyta",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Flash-Fire",
+	  "Flame-Body"
+	],
+	"bst": 410,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 78,
+	"name": "Rapidash",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Flash-Fire",
+	  "Flame-Body"
+	],
+	"bst": 500,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 79,
+	"name": "Slowpoke",
+	"types": [
+	  "Water",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Oblivious",
+	  "Own-Tempo",
+	  "Regenerator"
+	],
+	"bst": 315,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 80,
+	"name": "Slowbro",
+	"types": [
+	  "Water",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Oblivious",
+	  "Own-Tempo",
+	  "Regenerator"
+	],
+	"bst": 490,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 81,
+	"name": "Magnemite",
+	"types": [
+	  "Electric",
+	  "Steel"
+	],
+	"abilities": [
+	  "Magnet-Pull",
+	  "Sturdy",
+	  "Analytic"
+	],
+	"bst": 325,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 82,
+	"name": "Magneton",
+	"types": [
+	  "Electric",
+	  "Steel"
+	],
+	"abilities": [
+	  "Magnet-Pull",
+	  "Sturdy",
+	  "Analytic"
+	],
+	"bst": 465,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 83,
+	"name": "Farfetchd",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Inner-Focus",
+	  "Defiant"
+	],
+	"bst": 377,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Sky"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 84,
+	"name": "Doduo",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Early-Bird",
+	  "Tangled-Feet"
+	],
+	"bst": 310,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 85,
+	"name": "Dodrio",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Early-Bird",
+	  "Tangled-Feet"
+	],
+	"bst": 470,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 86,
+	"name": "Seel",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Hydration",
+	  "Ice-Body"
+	],
+	"bst": 325,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 87,
+	"name": "Dewgong",
+	"types": [
+	  "Water",
+	  "Ice"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Hydration",
+	  "Ice-Body"
+	],
+	"bst": 475,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 88,
+	"name": "Grimer",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Stench",
+	  "Sticky-Hold",
+	  "Poison-Touch"
+	],
+	"bst": 325,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 89,
+	"name": "Muk",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Stench",
+	  "Sticky-Hold",
+	  "Poison-Touch"
+	],
+	"bst": 500,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 90,
+	"name": "Shellder",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Shell-Armor",
+	  "Skill-Link",
+	  "Overcoat"
+	],
+	"bst": 305,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 91,
+	"name": "Cloyster",
+	"types": [
+	  "Water",
+	  "Ice"
+	],
+	"abilities": [
+	  "Shell-Armor",
+	  "Skill-Link",
+	  "Overcoat"
+	],
+	"bst": 525,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 92,
+	"name": "Gastly",
+	"types": [
+	  "Ghost",
+	  "Poison"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 310,
+	"evo-stages": 3,
+	"habitats": [
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 93,
+	"name": "Haunter",
+	"types": [
+	  "Ghost",
+	  "Poison"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 94,
+	"name": "Gengar",
+	"types": [
+	  "Ghost",
+	  "Poison"
+	],
+	"abilities": [
+	  "Cursed-Body"
+	],
+	"bst": 500,
+	"evo-stages": 3,
+	"habitats": [
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 95,
+	"name": "Onix",
+	"types": [
+	  "Rock",
+	  "Ground"
+	],
+	"abilities": [
+	  "Rock-Head",
+	  "Sturdy",
+	  "Weak-Armor"
+	],
+	"bst": 385,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Underground"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 96,
+	"name": "Drowzee",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Insomnia",
+	  "Forewarn",
+	  "Inner-Focus"
+	],
+	"bst": 328,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 97,
+	"name": "Hypno",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Insomnia",
+	  "Forewarn",
+	  "Inner-Focus"
+	],
+	"bst": 483,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 98,
+	"name": "Krabby",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Hyper-Cutter",
+	  "Shell-Armor",
+	  "Sheer-Force"
+	],
+	"bst": 325,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 99,
+	"name": "Kingler",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Hyper-Cutter",
+	  "Shell-Armor",
+	  "Sheer-Force"
+	],
+	"bst": 475,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 100,
+	"name": "Voltorb",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Soundproof",
+	  "Static",
+	  "Aftermath"
+	],
+	"bst": 330,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 101,
+	"name": "Electrode",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Soundproof",
+	  "Static",
+	  "Aftermath"
+	],
+	"bst": 490,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 102,
+	"name": "Exeggcute",
+	"types": [
+	  "Grass",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Harvest"
+	],
+	"bst": 325,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 103,
+	"name": "Exeggutor",
+	"types": [
+	  "Grass",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Harvest"
+	],
+	"bst": 530,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 104,
+	"name": "Cubone",
+	"types": [
+	  "Ground"
+	],
+	"abilities": [
+	  "Rock-Head",
+	  "Lightning-Rod",
+	  "Battle-Armor"
+	],
+	"bst": 320,
+	"evo-stages": 2,
+	"habitats": [
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 105,
+	"name": "Marowak",
+	"types": [
+	  "Ground"
+	],
+	"abilities": [
+	  "Rock-Head",
+	  "Lightning-Rod",
+	  "Battle-Armor"
+	],
+	"bst": 425,
+	"evo-stages": 2,
+	"habitats": [
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 106,
+	"name": "Hitmonlee",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Limber",
+	  "Reckless",
+	  "Unburden"
+	],
+	"bst": 455,
+	"evo-stages": 4,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 107,
+	"name": "Hitmonchan",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Iron-Fist",
+	  "Inner-Focus"
+	],
+	"bst": 455,
+	"evo-stages": 4,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 108,
+	"name": "Lickitung",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Own-Tempo",
+	  "Oblivious",
+	  "Cloud-Nine"
+	],
+	"bst": 385,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 109,
+	"name": "Koffing",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Levitate",
+	  "Neutralizing-Gas",
+	  "Stench"
+	],
+	"bst": 340,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 110,
+	"name": "Weezing",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Levitate",
+	  "Neutralizing-Gas",
+	  "Stench"
+	],
+	"bst": 490,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 111,
+	"name": "Rhyhorn",
+	"types": [
+	  "Ground",
+	  "Rock"
+	],
+	"abilities": [
+	  "Lightning-Rod",
+	  "Rock-Head",
+	  "Reckless"
+	],
+	"bst": 345,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Underground"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 112,
+	"name": "Rhydon",
+	"types": [
+	  "Ground",
+	  "Rock"
+	],
+	"abilities": [
+	  "Lightning-Rod",
+	  "Rock-Head",
+	  "Reckless"
+	],
+	"bst": 485,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Underground"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 113,
+	"name": "Chansey",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Natural-Cure",
+	  "Serene-Grace",
+	  "Healer"
+	],
+	"bst": 450,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 114,
+	"name": "Tangela",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Leaf-Guard",
+	  "Regenerator"
+	],
+	"bst": 435,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 115,
+	"name": "Kangaskhan",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Early-Bird",
+	  "Scrappy",
+	  "Inner-Focus"
+	],
+	"bst": 490,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 116,
+	"name": "Horsea",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Sniper",
+	  "Damp"
+	],
+	"bst": 295,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 117,
+	"name": "Seadra",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Poison-Point",
+	  "Sniper",
+	  "Damp"
+	],
+	"bst": 440,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 118,
+	"name": "Goldeen",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Water-Veil",
+	  "Lightning-Rod"
+	],
+	"bst": 320,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 119,
+	"name": "Seaking",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Water-Veil",
+	  "Lightning-Rod"
+	],
+	"bst": 450,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 120,
+	"name": "Staryu",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Illuminate",
+	  "Natural-Cure",
+	  "Analytic"
+	],
+	"bst": 340,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 121,
+	"name": "Starmie",
+	"types": [
+	  "Water",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Illuminate",
+	  "Natural-Cure",
+	  "Analytic"
+	],
+	"bst": 520,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 122,
+	"name": "Mr-Mime",
+	"types": [
+	  "Psychic",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Soundproof",
+	  "Filter",
+	  "Technician"
+	],
+	"bst": 460,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 123,
+	"name": "Scyther",
+	"types": [
+	  "Bug",
+	  "Flying"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Technician",
+	  "Steadfast"
+	],
+	"bst": 500,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 124,
+	"name": "Jynx",
+	"types": [
+	  "Ice",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Oblivious",
+	  "Forewarn",
+	  "Dry-Skin"
+	],
+	"bst": 455,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 125,
+	"name": "Electabuzz",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Static",
+	  "Vital-Spirit"
+	],
+	"bst": 490,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 126,
+	"name": "Magmar",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Flame-Body",
+	  "Vital-Spirit"
+	],
+	"bst": 495,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 127,
+	"name": "Pinsir",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Hyper-Cutter",
+	  "Mold-Breaker",
+	  "Moxie"
+	],
+	"bst": 500,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 128,
+	"name": "Tauros",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Anger-Point",
+	  "Sheer-Force"
+	],
+	"bst": 490,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 129,
+	"name": "Magikarp",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Rattled"
+	],
+	"bst": 200,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 130,
+	"name": "Gyarados",
+	"types": [
+	  "Water",
+	  "Flying"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Moxie"
+	],
+	"bst": 540,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 131,
+	"name": "Lapras",
+	"types": [
+	  "Water",
+	  "Ice"
+	],
+	"abilities": [
+	  "Water-Absorb",
+	  "Shell-Armor",
+	  "Hydration"
+	],
+	"bst": 535,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 132,
+	"name": "Ditto",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Limber",
+	  "Imposter"
+	],
+	"bst": 288,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 133,
+	"name": "Eevee",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Adaptability",
+	  "Anticipation"
+	],
+	"bst": 325,
+	"evo-stages": 8,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 134,
+	"name": "Vaporeon",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Water-Absorb",
+	  "Hydration"
+	],
+	"bst": 525,
+	"evo-stages": 8,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 135,
+	"name": "Jolteon",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Volt-Absorb",
+	  "Quick-Feet"
+	],
+	"bst": 525,
+	"evo-stages": 8,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 136,
+	"name": "Flareon",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Flash-Fire",
+	  "Guts"
+	],
+	"bst": 525,
+	"evo-stages": 8,
+	"habitats": [
+	  "Mountain",
+	  "Urban/City",
+	  "Volcanic/Fiery"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 137,
+	"name": "Porygon",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Trace",
+	  "Download",
+	  "Analytic"
+	],
+	"bst": 395,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 138,
+	"name": "Omanyte",
+	"types": [
+	  "Rock",
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Shell-Armor",
+	  "Weak-Armor"
+	],
+	"bst": 355,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 139,
+	"name": "Omastar",
+	"types": [
+	  "Rock",
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Shell-Armor",
+	  "Weak-Armor"
+	],
+	"bst": 495,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 140,
+	"name": "Kabuto",
+	"types": [
+	  "Rock",
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Battle-Armor",
+	  "Weak-Armor"
+	],
+	"bst": 355,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 141,
+	"name": "Kabutops",
+	"types": [
+	  "Rock",
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Battle-Armor",
+	  "Weak-Armor"
+	],
+	"bst": 495,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 142,
+	"name": "Aerodactyl",
+	"types": [
+	  "Rock",
+	  "Flying"
+	],
+	"abilities": [
+	  "Rock-Head",
+	  "Pressure",
+	  "Unnerve"
+	],
+	"bst": 515,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 143,
+	"name": "Snorlax",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Immunity",
+	  "Thick-Fat",
+	  "Gluttony"
+	],
+	"bst": 540,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 144,
+	"name": "Articuno",
+	"types": [
+	  "Ice",
+	  "Flying"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Snow-Cloak"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 145,
+	"name": "Zapdos",
+	"types": [
+	  "Electric",
+	  "Flying"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Static"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 146,
+	"name": "Moltres",
+	"types": [
+	  "Fire",
+	  "Flying"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Flame-Body"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 147,
+	"name": "Dratini",
+	"types": [
+	  "Dragon"
+	],
+	"abilities": [
+	  "Shed-Skin",
+	  "Marvel-Scale"
+	],
+	"bst": 300,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 148,
+	"name": "Dragonair",
+	"types": [
+	  "Dragon"
+	],
+	"abilities": [
+	  "Shed-Skin",
+	  "Marvel-Scale"
+	],
+	"bst": 420,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 149,
+	"name": "Dragonite",
+	"types": [
+	  "Dragon",
+	  "Flying"
+	],
+	"abilities": [
+	  "Inner-Focus",
+	  "Multiscale"
+	],
+	"bst": 600,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Sky"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 150,
+	"name": "Mewtwo",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Unnerve"
+	],
+	"bst": 680,
+	"evo-stages": 1,
+	"habitats": [
+	  "Cave",
+	  "Rare"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 151,
+	"name": "Mew",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Synchronize"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 1
+  },
+  {
+	"dex": 152,
+	"name": "Chikorita",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Leaf-Guard"
+	],
+	"bst": 318,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 153,
+	"name": "Bayleef",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Leaf-Guard"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 154,
+	"name": "Meganium",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Leaf-Guard"
+	],
+	"bst": 525,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 155,
+	"name": "Cyndaquil",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Flash-Fire"
+	],
+	"bst": 309,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 156,
+	"name": "Quilava",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Flash-Fire"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 157,
+	"name": "Typhlosion",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Flash-Fire"
+	],
+	"bst": 534,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 158,
+	"name": "Totodile",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Sheer-Force"
+	],
+	"bst": 314,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 159,
+	"name": "Croconaw",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Sheer-Force"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 160,
+	"name": "Feraligatr",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Sheer-Force"
+	],
+	"bst": 530,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 161,
+	"name": "Sentret",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Keen-Eye",
+	  "Frisk"
+	],
+	"bst": 215,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 162,
+	"name": "Furret",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Keen-Eye",
+	  "Frisk"
+	],
+	"bst": 415,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 163,
+	"name": "Hoothoot",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Insomnia",
+	  "Keen-Eye",
+	  "Tinted-Lens"
+	],
+	"bst": 262,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 164,
+	"name": "Noctowl",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Insomnia",
+	  "Keen-Eye",
+	  "Tinted-Lens"
+	],
+	"bst": 452,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 165,
+	"name": "Ledyba",
+	"types": [
+	  "Bug",
+	  "Flying"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Early-Bird",
+	  "Rattled"
+	],
+	"bst": 265,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 166,
+	"name": "Ledian",
+	"types": [
+	  "Bug",
+	  "Flying"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Early-Bird",
+	  "Iron-Fist"
+	],
+	"bst": 390,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 167,
+	"name": "Spinarak",
+	"types": [
+	  "Bug",
+	  "Poison"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Insomnia",
+	  "Sniper"
+	],
+	"bst": 250,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 168,
+	"name": "Ariados",
+	"types": [
+	  "Bug",
+	  "Poison"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Insomnia",
+	  "Sniper"
+	],
+	"bst": 400,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 169,
+	"name": "Crobat",
+	"types": [
+	  "Poison",
+	  "Flying"
+	],
+	"abilities": [
+	  "Inner-Focus",
+	  "Infiltrator"
+	],
+	"bst": 535,
+	"evo-stages": 3,
+	"habitats": [
+	  "Cave",
+	  "Sky"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 170,
+	"name": "Chinchou",
+	"types": [
+	  "Water",
+	  "Electric"
+	],
+	"abilities": [
+	  "Volt-Absorb",
+	  "Illuminate",
+	  "Water-Absorb"
+	],
+	"bst": 330,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 171,
+	"name": "Lanturn",
+	"types": [
+	  "Water",
+	  "Electric"
+	],
+	"abilities": [
+	  "Volt-Absorb",
+	  "Illuminate",
+	  "Water-Absorb"
+	],
+	"bst": 460,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 172,
+	"name": "Pichu",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Static",
+	  "Lightning-Rod"
+	],
+	"bst": 205,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 173,
+	"name": "Cleffa",
+	"types": [
+	  "Fairy"
+	],
+	"abilities": [
+	  "Cute-Charm",
+	  "Magic-Guard",
+	  "Friend-Guard"
+	],
+	"bst": 218,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Mountain"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 174,
+	"name": "Igglybuff",
+	"types": [
+	  "Normal",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Cute-Charm",
+	  "Competitive",
+	  "Friend-Guard"
+	],
+	"bst": 210,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 175,
+	"name": "Togepi",
+	"types": [
+	  "Fairy"
+	],
+	"abilities": [
+	  "Hustle",
+	  "Serene-Grace",
+	  "Super-Luck"
+	],
+	"bst": 245,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 176,
+	"name": "Togetic",
+	"types": [
+	  "Fairy",
+	  "Flying"
+	],
+	"abilities": [
+	  "Hustle",
+	  "Serene-Grace",
+	  "Super-Luck"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 177,
+	"name": "Natu",
+	"types": [
+	  "Psychic",
+	  "Flying"
+	],
+	"abilities": [
+	  "Synchronize",
+	  "Early-Bird",
+	  "Magic-Bounce"
+	],
+	"bst": 320,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 178,
+	"name": "Xatu",
+	"types": [
+	  "Psychic",
+	  "Flying"
+	],
+	"abilities": [
+	  "Synchronize",
+	  "Early-Bird",
+	  "Magic-Bounce"
+	],
+	"bst": 470,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 179,
+	"name": "Mareep",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Static",
+	  "Plus"
+	],
+	"bst": 280,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 180,
+	"name": "Flaaffy",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Static",
+	  "Plus"
+	],
+	"bst": 365,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 181,
+	"name": "Ampharos",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Static",
+	  "Plus"
+	],
+	"bst": 510,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Mountain"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 182,
+	"name": "Bellossom",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Healer"
+	],
+	"bst": 490,
+	"evo-stages": 4,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Mountain"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 183,
+	"name": "Marill",
+	"types": [
+	  "Water",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Huge-Power",
+	  "Sap-Sipper"
+	],
+	"bst": 250,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 184,
+	"name": "Azumarill",
+	"types": [
+	  "Water",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Huge-Power",
+	  "Sap-Sipper"
+	],
+	"bst": 420,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 185,
+	"name": "Sudowoodo",
+	"types": [
+	  "Rock"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Rock-Head",
+	  "Rattled"
+	],
+	"bst": 410,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Mountain"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 186,
+	"name": "Politoed",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Water-Absorb",
+	  "Damp",
+	  "Drizzle"
+	],
+	"bst": 500,
+	"evo-stages": 4,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 187,
+	"name": "Hoppip",
+	"types": [
+	  "Grass",
+	  "Flying"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Leaf-Guard",
+	  "Infiltrator"
+	],
+	"bst": 250,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 188,
+	"name": "Skiploom",
+	"types": [
+	  "Grass",
+	  "Flying"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Leaf-Guard",
+	  "Infiltrator"
+	],
+	"bst": 340,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 189,
+	"name": "Jumpluff",
+	"types": [
+	  "Grass",
+	  "Flying"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Leaf-Guard",
+	  "Infiltrator"
+	],
+	"bst": 460,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 190,
+	"name": "Aipom",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Pickup",
+	  "Skill-Link"
+	],
+	"bst": 360,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 191,
+	"name": "Sunkern",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Solar-Power",
+	  "Early-Bird"
+	],
+	"bst": 180,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 192,
+	"name": "Sunflora",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Solar-Power",
+	  "Early-Bird"
+	],
+	"bst": 425,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 193,
+	"name": "Yanma",
+	"types": [
+	  "Bug",
+	  "Flying"
+	],
+	"abilities": [
+	  "Speed-Boost",
+	  "Compound-Eyes",
+	  "Frisk"
+	],
+	"bst": 390,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Swamp/Marsh"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 194,
+	"name": "Wooper",
+	"types": [
+	  "Water",
+	  "Ground"
+	],
+	"abilities": [
+	  "Damp",
+	  "Water-Absorb",
+	  "Unaware"
+	],
+	"bst": 210,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Swamp/Marsh"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 195,
+	"name": "Quagsire",
+	"types": [
+	  "Water",
+	  "Ground"
+	],
+	"abilities": [
+	  "Damp",
+	  "Water-Absorb",
+	  "Unaware"
+	],
+	"bst": 430,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Swamp/Marsh"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 196,
+	"name": "Espeon",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Synchronize",
+	  "Magic-Bounce"
+	],
+	"bst": 525,
+	"evo-stages": 8,
+	"habitats": [
+	  "Urban/City",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 197,
+	"name": "Umbreon",
+	"types": [
+	  "Dark"
+	],
+	"abilities": [
+	  "Synchronize",
+	  "Inner-Focus"
+	],
+	"bst": 525,
+	"evo-stages": 8,
+	"habitats": [
+	  "Urban/City",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 198,
+	"name": "Murkrow",
+	"types": [
+	  "Dark",
+	  "Flying"
+	],
+	"abilities": [
+	  "Insomnia",
+	  "Super-Luck",
+	  "Prankster"
+	],
+	"bst": 405,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sky",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 199,
+	"name": "Slowking",
+	"types": [
+	  "Water",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Oblivious",
+	  "Own-Tempo",
+	  "Regenerator"
+	],
+	"bst": 490,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 200,
+	"name": "Misdreavus",
+	"types": [
+	  "Ghost"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 435,
+	"evo-stages": 2,
+	"habitats": [
+	  "Ruins/Cemeteries"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 201,
+	"name": "Unown",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 336,
+	"evo-stages": 1,
+	"habitats": [
+	  "Ruins/Cemeteries"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 202,
+	"name": "Wobbuffet",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Shadow-Tag",
+	  "Telepathy"
+	],
+	"bst": 405,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 203,
+	"name": "Girafarig",
+	"types": [
+	  "Normal",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Inner-Focus",
+	  "Early-Bird",
+	  "Sap-Sipper"
+	],
+	"bst": 455,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 204,
+	"name": "Pineco",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Overcoat"
+	],
+	"bst": 290,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 205,
+	"name": "Forretress",
+	"types": [
+	  "Bug",
+	  "Steel"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Overcoat"
+	],
+	"bst": 465,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 206,
+	"name": "Dunsparce",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Serene-Grace",
+	  "Run-Away",
+	  "Rattled"
+	],
+	"bst": 415,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Cave"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 207,
+	"name": "Gligar",
+	"types": [
+	  "Ground",
+	  "Flying"
+	],
+	"abilities": [
+	  "Hyper-Cutter",
+	  "Sand-Veil",
+	  "Immunity"
+	],
+	"bst": 430,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 208,
+	"name": "Steelix",
+	"types": [
+	  "Steel",
+	  "Ground"
+	],
+	"abilities": [
+	  "Rock-Head",
+	  "Sturdy",
+	  "Sheer-Force"
+	],
+	"bst": 510,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 209,
+	"name": "Snubbull",
+	"types": [
+	  "Fairy"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Run-Away",
+	  "Rattled"
+	],
+	"bst": 300,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 210,
+	"name": "Granbull",
+	"types": [
+	  "Fairy"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Quick-Feet",
+	  "Rattled"
+	],
+	"bst": 450,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 211,
+	"name": "Qwilfish",
+	"types": [
+	  "Water",
+	  "Poison"
+	],
+	"abilities": [
+	  "Poison-Point",
+	  "Swift-Swim",
+	  "Intimidate"
+	],
+	"bst": 440,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 212,
+	"name": "Scizor",
+	"types": [
+	  "Bug",
+	  "Steel"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Technician",
+	  "Light-Metal"
+	],
+	"bst": 500,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 213,
+	"name": "Shuckle",
+	"types": [
+	  "Bug",
+	  "Rock"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Gluttony",
+	  "Contrary"
+	],
+	"bst": 505,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 214,
+	"name": "Heracross",
+	"types": [
+	  "Bug",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Guts",
+	  "Moxie"
+	],
+	"bst": 500,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 215,
+	"name": "Sneasel",
+	"types": [
+	  "Dark",
+	  "Ice"
+	],
+	"abilities": [
+	  "Inner-Focus",
+	  "Keen-Eye",
+	  "Pickpocket"
+	],
+	"bst": 430,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Tundra/Arctic"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 216,
+	"name": "Teddiursa",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Pickup",
+	  "Quick-Feet",
+	  "Honey-Gather"
+	],
+	"bst": 330,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 217,
+	"name": "Ursaring",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Guts",
+	  "Quick-Feet",
+	  "Unnerve"
+	],
+	"bst": 500,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 218,
+	"name": "Slugma",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Magma-Armor",
+	  "Flame-Body",
+	  "Weak-Armor"
+	],
+	"bst": 250,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Volcanic/Fiery"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 219,
+	"name": "Magcargo",
+	"types": [
+	  "Fire",
+	  "Rock"
+	],
+	"abilities": [
+	  "Magma-Armor",
+	  "Flame-Body",
+	  "Weak-Armor"
+	],
+	"bst": 430,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Volcanic/Fiery"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 220,
+	"name": "Swinub",
+	"types": [
+	  "Ice",
+	  "Ground"
+	],
+	"abilities": [
+	  "Oblivious",
+	  "Snow-Cloak",
+	  "Thick-Fat"
+	],
+	"bst": 250,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Tundra/Arctic"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 221,
+	"name": "Piloswine",
+	"types": [
+	  "Ice",
+	  "Ground"
+	],
+	"abilities": [
+	  "Oblivious",
+	  "Snow-Cloak",
+	  "Thick-Fat"
+	],
+	"bst": 450,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Tundra/Arctic"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 222,
+	"name": "Corsola",
+	"types": [
+	  "Water",
+	  "Rock"
+	],
+	"abilities": [
+	  "Hustle",
+	  "Natural-Cure",
+	  "Regenerator"
+	],
+	"bst": 410,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 223,
+	"name": "Remoraid",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Hustle",
+	  "Sniper",
+	  "Moody"
+	],
+	"bst": 300,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 224,
+	"name": "Octillery",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Suction-Cups",
+	  "Sniper",
+	  "Moody"
+	],
+	"bst": 480,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 225,
+	"name": "Delibird",
+	"types": [
+	  "Ice",
+	  "Flying"
+	],
+	"abilities": [
+	  "Vital-Spirit",
+	  "Hustle",
+	  "Insomnia"
+	],
+	"bst": 330,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Tundra/Arctic"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 226,
+	"name": "Mantine",
+	"types": [
+	  "Water",
+	  "Flying"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Water-Absorb",
+	  "Water-Veil"
+	],
+	"bst": 485,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 227,
+	"name": "Skarmory",
+	"types": [
+	  "Steel",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Sturdy",
+	  "Weak-Armor"
+	],
+	"bst": 465,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Sky"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 228,
+	"name": "Houndour",
+	"types": [
+	  "Dark",
+	  "Fire"
+	],
+	"abilities": [
+	  "Early-Bird",
+	  "Flash-Fire",
+	  "Unnerve"
+	],
+	"bst": 330,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Urban/City",
+	  "Volcanic/Fiery"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 229,
+	"name": "Houndoom",
+	"types": [
+	  "Dark",
+	  "Fire"
+	],
+	"abilities": [
+	  "Early-Bird",
+	  "Flash-Fire",
+	  "Unnerve"
+	],
+	"bst": 500,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Urban/City",
+	  "Volcanic/Fiery"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 230,
+	"name": "Kingdra",
+	"types": [
+	  "Water",
+	  "Dragon"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Sniper",
+	  "Damp"
+	],
+	"bst": 540,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 231,
+	"name": "Phanpy",
+	"types": [
+	  "Ground"
+	],
+	"abilities": [
+	  "Pickup",
+	  "Sand-Veil"
+	],
+	"bst": 330,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Badlands"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 232,
+	"name": "Donphan",
+	"types": [
+	  "Ground"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Sand-Veil"
+	],
+	"bst": 500,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Badlands"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 233,
+	"name": "Porygon2",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Trace",
+	  "Download",
+	  "Analytic"
+	],
+	"bst": 515,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 234,
+	"name": "Stantler",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Frisk",
+	  "Sap-Sipper"
+	],
+	"bst": 465,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 235,
+	"name": "Smeargle",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Own-Tempo",
+	  "Technician",
+	  "Moody"
+	],
+	"bst": 250,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 236,
+	"name": "Tyrogue",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Guts",
+	  "Steadfast",
+	  "Vital-Spirit"
+	],
+	"bst": 210,
+	"evo-stages": 4,
+	"habitats": [
+	  "Mountain",
+	  "Urban/City"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 237,
+	"name": "Hitmontop",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Technician",
+	  "Steadfast"
+	],
+	"bst": 455,
+	"evo-stages": 4,
+	"habitats": [
+	  "Mountain",
+	  "Urban/City"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 238,
+	"name": "Smoochum",
+	"types": [
+	  "Ice",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Oblivious",
+	  "Forewarn",
+	  "Hydration"
+	],
+	"bst": 305,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Tundra/Arctic"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 239,
+	"name": "Elekid",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Static",
+	  "Vital-Spirit"
+	],
+	"bst": 360,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 240,
+	"name": "Magby",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Flame-Body",
+	  "Vital-Spirit"
+	],
+	"bst": 365,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City",
+	  "Volcanic/Fiery"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 241,
+	"name": "Miltank",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Scrappy",
+	  "Sap-Sipper"
+	],
+	"bst": 490,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 242,
+	"name": "Blissey",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Natural-Cure",
+	  "Serene-Grace",
+	  "Healer"
+	],
+	"bst": 540,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 243,
+	"name": "Raikou",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Inner-Focus"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Rare"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 244,
+	"name": "Entei",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Inner-Focus"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Rare"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 245,
+	"name": "Suicune",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Inner-Focus"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Forest",
+	  "Rare"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 246,
+	"name": "Larvitar",
+	"types": [
+	  "Rock",
+	  "Ground"
+	],
+	"abilities": [
+	  "Guts",
+	  "Sand-Veil"
+	],
+	"bst": 300,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Badlands"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 247,
+	"name": "Pupitar",
+	"types": [
+	  "Rock",
+	  "Ground"
+	],
+	"abilities": [
+	  "Shed-Skin"
+	],
+	"bst": 410,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Badlands"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 248,
+	"name": "Tyranitar",
+	"types": [
+	  "Rock",
+	  "Dark"
+	],
+	"abilities": [
+	  "Sand-Stream",
+	  "Unnerve"
+	],
+	"bst": 600,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Badlands"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 249,
+	"name": "Lugia",
+	"types": [
+	  "Psychic",
+	  "Flying"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Multiscale"
+	],
+	"bst": 680,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 250,
+	"name": "Ho-Oh",
+	"types": [
+	  "Fire",
+	  "Flying"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Regenerator"
+	],
+	"bst": 680,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 251,
+	"name": "Celebi",
+	"types": [
+	  "Psychic",
+	  "Grass"
+	],
+	"abilities": [
+	  "Natural-Cure"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Rare"
+	],
+	"generation": 2
+  },
+  {
+	"dex": 252,
+	"name": "Treecko",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Unburden"
+	],
+	"bst": 310,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 253,
+	"name": "Grovyle",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Unburden"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 254,
+	"name": "Sceptile",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Unburden"
+	],
+	"bst": 530,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 255,
+	"name": "Torchic",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Speed-Boost"
+	],
+	"bst": 310,
+	"evo-stages": 3,
+	"habitats": [
+	  "Volcanic/Fiery"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 256,
+	"name": "Combusken",
+	"types": [
+	  "Fire",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Speed-Boost"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Volcanic/Fiery"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 257,
+	"name": "Blaziken",
+	"types": [
+	  "Fire",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Speed-Boost"
+	],
+	"bst": 530,
+	"evo-stages": 3,
+	"habitats": [
+	  "Volcanic/Fiery"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 258,
+	"name": "Mudkip",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Damp"
+	],
+	"bst": 310,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Swamp/Marsh"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 259,
+	"name": "Marshtomp",
+	"types": [
+	  "Water",
+	  "Ground"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Damp"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Swamp/Marsh"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 260,
+	"name": "Swampert",
+	"types": [
+	  "Water",
+	  "Ground"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Damp"
+	],
+	"bst": 535,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Swamp/Marsh"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 261,
+	"name": "Poochyena",
+	"types": [
+	  "Dark"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Quick-Feet",
+	  "Rattled"
+	],
+	"bst": 220,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 262,
+	"name": "Mightyena",
+	"types": [
+	  "Dark"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Quick-Feet",
+	  "Moxie"
+	],
+	"bst": 420,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 263,
+	"name": "Zigzagoon",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Pickup",
+	  "Gluttony",
+	  "Quick-Feet"
+	],
+	"bst": 240,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 264,
+	"name": "Linoone",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Pickup",
+	  "Gluttony",
+	  "Quick-Feet"
+	],
+	"bst": 420,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 265,
+	"name": "Wurmple",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Shield-Dust",
+	  "Run-Away"
+	],
+	"bst": 195,
+	"evo-stages": 5,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 266,
+	"name": "Silcoon",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Shed-Skin"
+	],
+	"bst": 205,
+	"evo-stages": 5,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 267,
+	"name": "Beautifly",
+	"types": [
+	  "Bug",
+	  "Flying"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Rivalry"
+	],
+	"bst": 395,
+	"evo-stages": 5,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 268,
+	"name": "Cascoon",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Shed-Skin"
+	],
+	"bst": 205,
+	"evo-stages": 5,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 269,
+	"name": "Dustox",
+	"types": [
+	  "Bug",
+	  "Poison"
+	],
+	"abilities": [
+	  "Shield-Dust",
+	  "Compound-Eyes"
+	],
+	"bst": 385,
+	"evo-stages": 5,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 270,
+	"name": "Lotad",
+	"types": [
+	  "Water",
+	  "Grass"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Rain-Dish",
+	  "Own-Tempo"
+	],
+	"bst": 220,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Tropical"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 271,
+	"name": "Lombre",
+	"types": [
+	  "Water",
+	  "Grass"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Rain-Dish",
+	  "Own-Tempo"
+	],
+	"bst": 340,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Tropical"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 272,
+	"name": "Ludicolo",
+	"types": [
+	  "Water",
+	  "Grass"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Rain-Dish",
+	  "Own-Tempo"
+	],
+	"bst": 480,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Tropical"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 273,
+	"name": "Seedot",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Early-Bird",
+	  "Pickpocket"
+	],
+	"bst": 220,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 274,
+	"name": "Nuzleaf",
+	"types": [
+	  "Grass",
+	  "Dark"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Early-Bird",
+	  "Pickpocket"
+	],
+	"bst": 340,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 275,
+	"name": "Shiftry",
+	"types": [
+	  "Grass",
+	  "Dark"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Wind-Rider",
+	  "Pickpocket"
+	],
+	"bst": 480,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 276,
+	"name": "Taillow",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Guts",
+	  "Scrappy"
+	],
+	"bst": 270,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Sky"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 277,
+	"name": "Swellow",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Guts",
+	  "Scrappy"
+	],
+	"bst": 455,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Sky"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 278,
+	"name": "Wingull",
+	"types": [
+	  "Water",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Hydration",
+	  "Rain-Dish"
+	],
+	"bst": 270,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sky",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 279,
+	"name": "Pelipper",
+	"types": [
+	  "Water",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Drizzle",
+	  "Rain-Dish"
+	],
+	"bst": 440,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sky",
+	  "River/Lake",
+	  "Beach/Coastal"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 280,
+	"name": "Ralts",
+	"types": [
+	  "Psychic",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Synchronize",
+	  "Trace",
+	  "Telepathy"
+	],
+	"bst": 198,
+	"evo-stages": 4,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 281,
+	"name": "Kirlia",
+	"types": [
+	  "Psychic",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Synchronize",
+	  "Trace",
+	  "Telepathy"
+	],
+	"bst": 278,
+	"evo-stages": 4,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 282,
+	"name": "Gardevoir",
+	"types": [
+	  "Psychic",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Synchronize",
+	  "Trace",
+	  "Telepathy"
+	],
+	"bst": 518,
+	"evo-stages": 4,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 283,
+	"name": "Surskit",
+	"types": [
+	  "Bug",
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Rain-Dish"
+	],
+	"bst": 269,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake",
+	  "Tropical"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 284,
+	"name": "Masquerain",
+	"types": [
+	  "Bug",
+	  "Flying"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Unnerve"
+	],
+	"bst": 454,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake",
+	  "Tropical"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 285,
+	"name": "Shroomish",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Effect-Spore",
+	  "Poison-Heal",
+	  "Quick-Feet"
+	],
+	"bst": 295,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 286,
+	"name": "Breloom",
+	"types": [
+	  "Grass",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Effect-Spore",
+	  "Poison-Heal",
+	  "Technician"
+	],
+	"bst": 460,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 287,
+	"name": "Slakoth",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Truant"
+	],
+	"bst": 280,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 288,
+	"name": "Vigoroth",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Vital-Spirit"
+	],
+	"bst": 440,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 289,
+	"name": "Slaking",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Truant"
+	],
+	"bst": 670,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 290,
+	"name": "Nincada",
+	"types": [
+	  "Bug",
+	  "Ground"
+	],
+	"abilities": [
+	  "Compound-Eyes",
+	  "Run-Away"
+	],
+	"bst": 266,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 291,
+	"name": "Ninjask",
+	"types": [
+	  "Bug",
+	  "Flying"
+	],
+	"abilities": [
+	  "Speed-Boost",
+	  "Infiltrator"
+	],
+	"bst": 456,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 292,
+	"name": "Shedinja",
+	"types": [
+	  "Bug",
+	  "Ghost"
+	],
+	"abilities": [
+	  "Wonder-Guard"
+	],
+	"bst": 236,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 293,
+	"name": "Whismur",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Soundproof",
+	  "Rattled"
+	],
+	"bst": 240,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 294,
+	"name": "Loudred",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Soundproof",
+	  "Scrappy"
+	],
+	"bst": 360,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 295,
+	"name": "Exploud",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Soundproof",
+	  "Scrappy"
+	],
+	"bst": 490,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 296,
+	"name": "Makuhita",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Guts",
+	  "Sheer-Force"
+	],
+	"bst": 237,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Urban/City"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 297,
+	"name": "Hariyama",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Guts",
+	  "Sheer-Force"
+	],
+	"bst": 474,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Urban/City"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 298,
+	"name": "Azurill",
+	"types": [
+	  "Normal",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Huge-Power",
+	  "Sap-Sipper"
+	],
+	"bst": 190,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "River/Lake"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 299,
+	"name": "Nosepass",
+	"types": [
+	  "Rock"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Magnet-Pull",
+	  "Sand-Force"
+	],
+	"bst": 375,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 300,
+	"name": "Skitty",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Cute-Charm",
+	  "Normalize",
+	  "Wonder-Skin"
+	],
+	"bst": 260,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Urban/City"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 301,
+	"name": "Delcatty",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Cute-Charm",
+	  "Normalize",
+	  "Wonder-Skin"
+	],
+	"bst": 400,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Urban/City"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 302,
+	"name": "Sableye",
+	"types": [
+	  "Dark",
+	  "Ghost"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Stall",
+	  "Prankster"
+	],
+	"bst": 380,
+	"evo-stages": 1,
+	"habitats": [
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 303,
+	"name": "Mawile",
+	"types": [
+	  "Steel",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Hyper-Cutter",
+	  "Intimidate",
+	  "Sheer-Force"
+	],
+	"bst": 380,
+	"evo-stages": 1,
+	"habitats": [
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 304,
+	"name": "Aron",
+	"types": [
+	  "Steel",
+	  "Rock"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Rock-Head",
+	  "Heavy-Metal"
+	],
+	"bst": 330,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 305,
+	"name": "Lairon",
+	"types": [
+	  "Steel",
+	  "Rock"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Rock-Head",
+	  "Heavy-Metal"
+	],
+	"bst": 430,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 306,
+	"name": "Aggron",
+	"types": [
+	  "Steel",
+	  "Rock"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Rock-Head",
+	  "Heavy-Metal"
+	],
+	"bst": 530,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 307,
+	"name": "Meditite",
+	"types": [
+	  "Fighting",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Pure-Power",
+	  "Telepathy"
+	],
+	"bst": 280,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Urban/City"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 308,
+	"name": "Medicham",
+	"types": [
+	  "Fighting",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Pure-Power",
+	  "Telepathy"
+	],
+	"bst": 410,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Urban/City"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 309,
+	"name": "Electrike",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Static",
+	  "Lightning-Rod",
+	  "Minus"
+	],
+	"bst": 295,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 310,
+	"name": "Manectric",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Static",
+	  "Lightning-Rod",
+	  "Minus"
+	],
+	"bst": 475,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 311,
+	"name": "Plusle",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Plus",
+	  "Lightning-Rod"
+	],
+	"bst": 405,
+	"evo-stages": 1,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 312,
+	"name": "Minun",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Minus",
+	  "Volt-Absorb"
+	],
+	"bst": 405,
+	"evo-stages": 1,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 313,
+	"name": "Volbeat",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Illuminate",
+	  "Swarm",
+	  "Prankster"
+	],
+	"bst": 430,
+	"evo-stages": 1,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 314,
+	"name": "Illumise",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Oblivious",
+	  "Tinted-Lens",
+	  "Prankster"
+	],
+	"bst": 430,
+	"evo-stages": 1,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 315,
+	"name": "Roselia",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Natural-Cure",
+	  "Poison-Point",
+	  "Leaf-Guard"
+	],
+	"bst": 400,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 316,
+	"name": "Gulpin",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Liquid-Ooze",
+	  "Sticky-Hold",
+	  "Gluttony"
+	],
+	"bst": 302,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 317,
+	"name": "Swalot",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Liquid-Ooze",
+	  "Sticky-Hold",
+	  "Gluttony"
+	],
+	"bst": 467,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 318,
+	"name": "Carvanha",
+	"types": [
+	  "Water",
+	  "Dark"
+	],
+	"abilities": [
+	  "Rough-Skin",
+	  "Speed-Boost"
+	],
+	"bst": 305,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 319,
+	"name": "Sharpedo",
+	"types": [
+	  "Water",
+	  "Dark"
+	],
+	"abilities": [
+	  "Rough-Skin",
+	  "Speed-Boost"
+	],
+	"bst": 460,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 320,
+	"name": "Wailmer",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Water-Veil",
+	  "Oblivious",
+	  "Pressure"
+	],
+	"bst": 400,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 321,
+	"name": "Wailord",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Water-Veil",
+	  "Oblivious",
+	  "Pressure"
+	],
+	"bst": 500,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 322,
+	"name": "Numel",
+	"types": [
+	  "Fire",
+	  "Ground"
+	],
+	"abilities": [
+	  "Oblivious",
+	  "Simple",
+	  "Own-Tempo"
+	],
+	"bst": 305,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Desert"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 323,
+	"name": "Camerupt",
+	"types": [
+	  "Fire",
+	  "Ground"
+	],
+	"abilities": [
+	  "Magma-Armor",
+	  "Solid-Rock",
+	  "Anger-Point"
+	],
+	"bst": 460,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Desert"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 324,
+	"name": "Torkoal",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "White-Smoke",
+	  "Drought",
+	  "Shell-Armor"
+	],
+	"bst": 470,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Badlands"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 325,
+	"name": "Spoink",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Own-Tempo",
+	  "Gluttony"
+	],
+	"bst": 330,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 326,
+	"name": "Grumpig",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Own-Tempo",
+	  "Gluttony"
+	],
+	"bst": 470,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 327,
+	"name": "Spinda",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Own-Tempo",
+	  "Tangled-Feet",
+	  "Contrary"
+	],
+	"bst": 360,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 328,
+	"name": "Trapinch",
+	"types": [
+	  "Ground"
+	],
+	"abilities": [
+	  "Hyper-Cutter",
+	  "Arena-Trap",
+	  "Sheer-Force"
+	],
+	"bst": 290,
+	"evo-stages": 3,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 329,
+	"name": "Vibrava",
+	"types": [
+	  "Ground",
+	  "Dragon"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 340,
+	"evo-stages": 3,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 330,
+	"name": "Flygon",
+	"types": [
+	  "Ground",
+	  "Dragon"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 520,
+	"evo-stages": 3,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 331,
+	"name": "Cacnea",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Sand-Veil",
+	  "Water-Absorb"
+	],
+	"bst": 335,
+	"evo-stages": 2,
+	"habitats": [
+	  "Desert"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 332,
+	"name": "Cacturne",
+	"types": [
+	  "Grass",
+	  "Dark"
+	],
+	"abilities": [
+	  "Sand-Veil",
+	  "Water-Absorb"
+	],
+	"bst": 475,
+	"evo-stages": 2,
+	"habitats": [
+	  "Desert"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 333,
+	"name": "Swablu",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Natural-Cure",
+	  "Cloud-Nine"
+	],
+	"bst": 310,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Sky"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 334,
+	"name": "Altaria",
+	"types": [
+	  "Dragon",
+	  "Flying"
+	],
+	"abilities": [
+	  "Natural-Cure",
+	  "Cloud-Nine"
+	],
+	"bst": 490,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Sky"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 335,
+	"name": "Zangoose",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Immunity",
+	  "Toxic-Boost"
+	],
+	"bst": 458,
+	"evo-stages": 1,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 336,
+	"name": "Seviper",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Shed-Skin",
+	  "Infiltrator"
+	],
+	"bst": 458,
+	"evo-stages": 1,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 337,
+	"name": "Lunatone",
+	"types": [
+	  "Rock",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 460,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Desert"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 338,
+	"name": "Solrock",
+	"types": [
+	  "Rock",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 460,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Desert"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 339,
+	"name": "Barboach",
+	"types": [
+	  "Water",
+	  "Ground"
+	],
+	"abilities": [
+	  "Oblivious",
+	  "Anticipation",
+	  "Hydration"
+	],
+	"bst": 288,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 340,
+	"name": "Whiscash",
+	"types": [
+	  "Water",
+	  "Ground"
+	],
+	"abilities": [
+	  "Oblivious",
+	  "Anticipation",
+	  "Hydration"
+	],
+	"bst": 468,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 341,
+	"name": "Corphish",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Hyper-Cutter",
+	  "Shell-Armor",
+	  "Adaptability"
+	],
+	"bst": 308,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 342,
+	"name": "Crawdaunt",
+	"types": [
+	  "Water",
+	  "Dark"
+	],
+	"abilities": [
+	  "Hyper-Cutter",
+	  "Shell-Armor",
+	  "Adaptability"
+	],
+	"bst": 468,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 343,
+	"name": "Baltoy",
+	"types": [
+	  "Ground",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 300,
+	"evo-stages": 2,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 344,
+	"name": "Claydol",
+	"types": [
+	  "Ground",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 500,
+	"evo-stages": 2,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 345,
+	"name": "Lileep",
+	"types": [
+	  "Rock",
+	  "Grass"
+	],
+	"abilities": [
+	  "Suction-Cups",
+	  "Storm-Drain"
+	],
+	"bst": 355,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 346,
+	"name": "Cradily",
+	"types": [
+	  "Rock",
+	  "Grass"
+	],
+	"abilities": [
+	  "Suction-Cups",
+	  "Storm-Drain"
+	],
+	"bst": 495,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 347,
+	"name": "Anorith",
+	"types": [
+	  "Rock",
+	  "Bug"
+	],
+	"abilities": [
+	  "Battle-Armor",
+	  "Swift-Swim"
+	],
+	"bst": 355,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 348,
+	"name": "Armaldo",
+	"types": [
+	  "Rock",
+	  "Bug"
+	],
+	"abilities": [
+	  "Battle-Armor",
+	  "Swift-Swim"
+	],
+	"bst": 495,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 349,
+	"name": "Feebas",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Oblivious",
+	  "Adaptability"
+	],
+	"bst": 200,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 350,
+	"name": "Milotic",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Marvel-Scale",
+	  "Competitive",
+	  "Cute-Charm"
+	],
+	"bst": 540,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 351,
+	"name": "Castform",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Forecast"
+	],
+	"bst": 420,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 352,
+	"name": "Kecleon",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Color-Change",
+	  "Protean"
+	],
+	"bst": 440,
+	"evo-stages": 1,
+	"habitats": [
+	  "Forest",
+	  "Tropical"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 353,
+	"name": "Shuppet",
+	"types": [
+	  "Ghost"
+	],
+	"abilities": [
+	  "Insomnia",
+	  "Frisk",
+	  "Cursed-Body"
+	],
+	"bst": 295,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 354,
+	"name": "Banette",
+	"types": [
+	  "Ghost"
+	],
+	"abilities": [
+	  "Insomnia",
+	  "Frisk",
+	  "Cursed-Body"
+	],
+	"bst": 455,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 355,
+	"name": "Duskull",
+	"types": [
+	  "Ghost"
+	],
+	"abilities": [
+	  "Levitate",
+	  "Frisk"
+	],
+	"bst": 295,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 356,
+	"name": "Dusclops",
+	"types": [
+	  "Ghost"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Frisk"
+	],
+	"bst": 455,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 357,
+	"name": "Tropius",
+	"types": [
+	  "Grass",
+	  "Flying"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Solar-Power",
+	  "Harvest"
+	],
+	"bst": 460,
+	"evo-stages": 1,
+	"habitats": [
+	  "Forest",
+	  "Tropical"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 358,
+	"name": "Chimecho",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 455,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Tundra/Arctic"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 359,
+	"name": "Absol",
+	"types": [
+	  "Dark"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Super-Luck",
+	  "Justified"
+	],
+	"bst": 465,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 360,
+	"name": "Wynaut",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Shadow-Tag",
+	  "Telepathy"
+	],
+	"bst": 260,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Mountain",
+	  "Tundra/Arctic"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 361,
+	"name": "Snorunt",
+	"types": [
+	  "Ice"
+	],
+	"abilities": [
+	  "Inner-Focus",
+	  "Ice-Body",
+	  "Moody"
+	],
+	"bst": 300,
+	"evo-stages": 3,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 362,
+	"name": "Glalie",
+	"types": [
+	  "Ice"
+	],
+	"abilities": [
+	  "Inner-Focus",
+	  "Ice-Body",
+	  "Moody"
+	],
+	"bst": 480,
+	"evo-stages": 3,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 363,
+	"name": "Spheal",
+	"types": [
+	  "Ice",
+	  "Water"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Ice-Body",
+	  "Oblivious"
+	],
+	"bst": 290,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Tundra/Arctic"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 364,
+	"name": "Sealeo",
+	"types": [
+	  "Ice",
+	  "Water"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Ice-Body",
+	  "Oblivious"
+	],
+	"bst": 410,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Tundra/Arctic"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 365,
+	"name": "Walrein",
+	"types": [
+	  "Ice",
+	  "Water"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Ice-Body",
+	  "Oblivious"
+	],
+	"bst": 530,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Tundra/Arctic"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 366,
+	"name": "Clamperl",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Shell-Armor",
+	  "Rattled"
+	],
+	"bst": 345,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 367,
+	"name": "Huntail",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Water-Veil"
+	],
+	"bst": 485,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 368,
+	"name": "Gorebyss",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Hydration"
+	],
+	"bst": 485,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 369,
+	"name": "Relicanth",
+	"types": [
+	  "Water",
+	  "Rock"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Rock-Head",
+	  "Sturdy"
+	],
+	"bst": 485,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 370,
+	"name": "Luvdisc",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Hydration"
+	],
+	"bst": 330,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 371,
+	"name": "Bagon",
+	"types": [
+	  "Dragon"
+	],
+	"abilities": [
+	  "Rock-Head",
+	  "Sheer-Force"
+	],
+	"bst": 300,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 372,
+	"name": "Shelgon",
+	"types": [
+	  "Dragon"
+	],
+	"abilities": [
+	  "Rock-Head",
+	  "Overcoat"
+	],
+	"bst": 420,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 373,
+	"name": "Salamence",
+	"types": [
+	  "Dragon",
+	  "Flying"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Moxie"
+	],
+	"bst": 600,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Sky"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 374,
+	"name": "Beldum",
+	"types": [
+	  "Steel",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Clear-Body",
+	  "Light-Metal"
+	],
+	"bst": 300,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 375,
+	"name": "Metang",
+	"types": [
+	  "Steel",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Clear-Body",
+	  "Light-Metal"
+	],
+	"bst": 420,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 376,
+	"name": "Metagross",
+	"types": [
+	  "Steel",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Clear-Body",
+	  "Light-Metal"
+	],
+	"bst": 600,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 377,
+	"name": "Regirock",
+	"types": [
+	  "Rock"
+	],
+	"abilities": [
+	  "Clear-Body",
+	  "Sturdy"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Rare"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 378,
+	"name": "Regice",
+	"types": [
+	  "Ice"
+	],
+	"abilities": [
+	  "Clear-Body",
+	  "Ice-Body"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Cave",
+	  "Tundra/Arctic",
+	  "Rare"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 379,
+	"name": "Registeel",
+	"types": [
+	  "Steel"
+	],
+	"abilities": [
+	  "Clear-Body",
+	  "Light-Metal"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Rare"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 380,
+	"name": "Latias",
+	"types": [
+	  "Dragon",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 381,
+	"name": "Latios",
+	"types": [
+	  "Dragon",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 382,
+	"name": "Kyogre",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Drizzle"
+	],
+	"bst": 670,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Rare"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 383,
+	"name": "Groudon",
+	"types": [
+	  "Ground"
+	],
+	"abilities": [
+	  "Drought"
+	],
+	"bst": 670,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Volcanic/Fiery",
+	  "Rare"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 384,
+	"name": "Rayquaza",
+	"types": [
+	  "Dragon",
+	  "Flying"
+	],
+	"abilities": [
+	  "Air-Lock"
+	],
+	"bst": 680,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 385,
+	"name": "Jirachi",
+	"types": [
+	  "Steel",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Serene-Grace"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 386,
+	"name": "Deoxys-Normal",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Pressure"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 387,
+	"name": "Turtwig",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Shell-Armor"
+	],
+	"bst": 318,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 388,
+	"name": "Grotle",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Shell-Armor"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 389,
+	"name": "Torterra",
+	"types": [
+	  "Grass",
+	  "Ground"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Shell-Armor"
+	],
+	"bst": 525,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 390,
+	"name": "Chimchar",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Iron-Fist"
+	],
+	"bst": 309,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 391,
+	"name": "Monferno",
+	"types": [
+	  "Fire",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Iron-Fist"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 392,
+	"name": "Infernape",
+	"types": [
+	  "Fire",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Iron-Fist"
+	],
+	"bst": 534,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 393,
+	"name": "Piplup",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Competitive"
+	],
+	"bst": 314,
+	"evo-stages": 3,
+	"habitats": [
+	  "Tundra/Arctic",
+	  "River/Lake"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 394,
+	"name": "Prinplup",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Competitive"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Tundra/Arctic",
+	  "River/Lake"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 395,
+	"name": "Empoleon",
+	"types": [
+	  "Water",
+	  "Steel"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Competitive"
+	],
+	"bst": 530,
+	"evo-stages": 3,
+	"habitats": [
+	  "Tundra/Arctic",
+	  "River/Lake"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 396,
+	"name": "Starly",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Reckless"
+	],
+	"bst": 245,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Sky"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 397,
+	"name": "Staravia",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Reckless"
+	],
+	"bst": 340,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Sky"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 398,
+	"name": "Staraptor",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Reckless"
+	],
+	"bst": 485,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Sky"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 399,
+	"name": "Bidoof",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Simple",
+	  "Unaware",
+	  "Moody"
+	],
+	"bst": 250,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "River/Lake"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 400,
+	"name": "Bibarel",
+	"types": [
+	  "Normal",
+	  "Water"
+	],
+	"abilities": [
+	  "Simple",
+	  "Unaware",
+	  "Moody"
+	],
+	"bst": 410,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "River/Lake"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 401,
+	"name": "Kricketot",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Shed-Skin",
+	  "Run-Away"
+	],
+	"bst": 194,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 402,
+	"name": "Kricketune",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Technician"
+	],
+	"bst": 384,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 403,
+	"name": "Shinx",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Rivalry",
+	  "Intimidate",
+	  "Guts"
+	],
+	"bst": 263,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 404,
+	"name": "Luxio",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Rivalry",
+	  "Intimidate",
+	  "Guts"
+	],
+	"bst": 363,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 405,
+	"name": "Luxray",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Rivalry",
+	  "Intimidate",
+	  "Guts"
+	],
+	"bst": 523,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 406,
+	"name": "Budew",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Natural-Cure",
+	  "Poison-Point",
+	  "Leaf-Guard"
+	],
+	"bst": 280,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 407,
+	"name": "Roserade",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Natural-Cure",
+	  "Poison-Point",
+	  "Technician"
+	],
+	"bst": 515,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 408,
+	"name": "Cranidos",
+	"types": [
+	  "Rock"
+	],
+	"abilities": [
+	  "Mold-Breaker",
+	  "Sheer-Force"
+	],
+	"bst": 350,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Underground"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 409,
+	"name": "Rampardos",
+	"types": [
+	  "Rock"
+	],
+	"abilities": [
+	  "Mold-Breaker",
+	  "Sheer-Force"
+	],
+	"bst": 495,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Underground"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 410,
+	"name": "Shieldon",
+	"types": [
+	  "Rock",
+	  "Steel"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Soundproof"
+	],
+	"bst": 350,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 411,
+	"name": "Bastiodon",
+	"types": [
+	  "Rock",
+	  "Steel"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Soundproof"
+	],
+	"bst": 495,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 412,
+	"name": "Burmy",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Shed-Skin",
+	  "Overcoat"
+	],
+	"bst": 224,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 413,
+	"name": "Wormadam-Plant",
+	"types": [
+	  "Bug",
+	  "Grass"
+	],
+	"abilities": [
+	  "Anticipation",
+	  "Overcoat"
+	],
+	"bst": 424,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 414,
+	"name": "Mothim",
+	"types": [
+	  "Bug",
+	  "Flying"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Tinted-Lens"
+	],
+	"bst": 424,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 415,
+	"name": "Combee",
+	"types": [
+	  "Bug",
+	  "Flying"
+	],
+	"abilities": [
+	  "Honey-Gather",
+	  "Hustle"
+	],
+	"bst": 244,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 416,
+	"name": "Vespiquen",
+	"types": [
+	  "Bug",
+	  "Flying"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Unnerve"
+	],
+	"bst": 474,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 417,
+	"name": "Pachirisu",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Pickup",
+	  "Volt-Absorb"
+	],
+	"bst": 405,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 418,
+	"name": "Buizel",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Water-Veil"
+	],
+	"bst": 330,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 419,
+	"name": "Floatzel",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Water-Veil"
+	],
+	"bst": 495,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 420,
+	"name": "Cherubi",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Chlorophyll"
+	],
+	"bst": 275,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 421,
+	"name": "Cherrim",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Flower-Gift"
+	],
+	"bst": 450,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 422,
+	"name": "Shellos",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Sticky-Hold",
+	  "Storm-Drain",
+	  "Sand-Force"
+	],
+	"bst": 325,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 423,
+	"name": "Gastrodon",
+	"types": [
+	  "Water",
+	  "Ground"
+	],
+	"abilities": [
+	  "Sticky-Hold",
+	  "Storm-Drain",
+	  "Sand-Force"
+	],
+	"bst": 475,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 424,
+	"name": "Ambipom",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Technician",
+	  "Pickup",
+	  "Skill-Link"
+	],
+	"bst": 482,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 425,
+	"name": "Drifloon",
+	"types": [
+	  "Ghost",
+	  "Flying"
+	],
+	"abilities": [
+	  "Aftermath",
+	  "Unburden",
+	  "Flare-Boost"
+	],
+	"bst": 348,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 426,
+	"name": "Drifblim",
+	"types": [
+	  "Ghost",
+	  "Flying"
+	],
+	"abilities": [
+	  "Aftermath",
+	  "Unburden",
+	  "Flare-Boost"
+	],
+	"bst": 498,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 427,
+	"name": "Buneary",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Klutz",
+	  "Limber"
+	],
+	"bst": 350,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 428,
+	"name": "Lopunny",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Cute-Charm",
+	  "Klutz",
+	  "Limber"
+	],
+	"bst": 480,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 429,
+	"name": "Mismagius",
+	"types": [
+	  "Ghost"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 495,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 430,
+	"name": "Honchkrow",
+	"types": [
+	  "Dark",
+	  "Flying"
+	],
+	"abilities": [
+	  "Insomnia",
+	  "Super-Luck",
+	  "Moxie"
+	],
+	"bst": 505,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Sky"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 431,
+	"name": "Glameow",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Limber",
+	  "Own-Tempo",
+	  "Keen-Eye"
+	],
+	"bst": 310,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 432,
+	"name": "Purugly",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Thick-Fat",
+	  "Own-Tempo",
+	  "Defiant"
+	],
+	"bst": 452,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 433,
+	"name": "Chingling",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 285,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 434,
+	"name": "Stunky",
+	"types": [
+	  "Poison",
+	  "Dark"
+	],
+	"abilities": [
+	  "Stench",
+	  "Aftermath",
+	  "Keen-Eye"
+	],
+	"bst": 329,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 435,
+	"name": "Skuntank",
+	"types": [
+	  "Poison",
+	  "Dark"
+	],
+	"abilities": [
+	  "Stench",
+	  "Aftermath",
+	  "Keen-Eye"
+	],
+	"bst": 479,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 436,
+	"name": "Bronzor",
+	"types": [
+	  "Steel",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate",
+	  "Heatproof",
+	  "Heavy-Metal"
+	],
+	"bst": 300,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 437,
+	"name": "Bronzong",
+	"types": [
+	  "Steel",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate",
+	  "Heatproof",
+	  "Heavy-Metal"
+	],
+	"bst": 500,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 438,
+	"name": "Bonsly",
+	"types": [
+	  "Rock"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Rock-Head",
+	  "Rattled"
+	],
+	"bst": 290,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 439,
+	"name": "Mime-Jr",
+	"types": [
+	  "Psychic",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Soundproof",
+	  "Filter",
+	  "Technician"
+	],
+	"bst": 310,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 440,
+	"name": "Happiny",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Natural-Cure",
+	  "Serene-Grace",
+	  "Friend-Guard"
+	],
+	"bst": 220,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 441,
+	"name": "Chatot",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Tangled-Feet",
+	  "Big-Pecks"
+	],
+	"bst": 411,
+	"evo-stages": 1,
+	"habitats": [
+	  "Forest",
+	  "Urban/City",
+	  "Sky"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 442,
+	"name": "Spiritomb",
+	"types": [
+	  "Ghost",
+	  "Dark"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Infiltrator"
+	],
+	"bst": 485,
+	"evo-stages": 1,
+	"habitats": [
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 443,
+	"name": "Gible",
+	"types": [
+	  "Dragon",
+	  "Ground"
+	],
+	"abilities": [
+	  "Sand-Veil",
+	  "Rough-Skin"
+	],
+	"bst": 300,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 444,
+	"name": "Gabite",
+	"types": [
+	  "Dragon",
+	  "Ground"
+	],
+	"abilities": [
+	  "Sand-Veil",
+	  "Rough-Skin"
+	],
+	"bst": 410,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 445,
+	"name": "Garchomp",
+	"types": [
+	  "Dragon",
+	  "Ground"
+	],
+	"abilities": [
+	  "Sand-Veil",
+	  "Rough-Skin"
+	],
+	"bst": 600,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 446,
+	"name": "Munchlax",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Pickup",
+	  "Thick-Fat",
+	  "Gluttony"
+	],
+	"bst": 390,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 447,
+	"name": "Riolu",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Steadfast",
+	  "Inner-Focus",
+	  "Prankster"
+	],
+	"bst": 285,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Mountain"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 448,
+	"name": "Lucario",
+	"types": [
+	  "Fighting",
+	  "Steel"
+	],
+	"abilities": [
+	  "Steadfast",
+	  "Inner-Focus",
+	  "Justified"
+	],
+	"bst": 525,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Mountain"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 449,
+	"name": "Hippopotas",
+	"types": [
+	  "Ground"
+	],
+	"abilities": [
+	  "Sand-Stream",
+	  "Sand-Force"
+	],
+	"bst": 330,
+	"evo-stages": 2,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 450,
+	"name": "Hippowdon",
+	"types": [
+	  "Ground"
+	],
+	"abilities": [
+	  "Sand-Stream",
+	  "Sand-Force"
+	],
+	"bst": 525,
+	"evo-stages": 2,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 451,
+	"name": "Skorupi",
+	"types": [
+	  "Poison",
+	  "Bug"
+	],
+	"abilities": [
+	  "Battle-Armor",
+	  "Sniper",
+	  "Keen-Eye"
+	],
+	"bst": 330,
+	"evo-stages": 2,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 452,
+	"name": "Drapion",
+	"types": [
+	  "Poison",
+	  "Dark"
+	],
+	"abilities": [
+	  "Battle-Armor",
+	  "Sniper",
+	  "Keen-Eye"
+	],
+	"bst": 500,
+	"evo-stages": 2,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 453,
+	"name": "Croagunk",
+	"types": [
+	  "Poison",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Anticipation",
+	  "Dry-Skin",
+	  "Poison-Touch"
+	],
+	"bst": 300,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City",
+	  "Swamp/Marsh"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 454,
+	"name": "Toxicroak",
+	"types": [
+	  "Poison",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Anticipation",
+	  "Dry-Skin",
+	  "Poison-Touch"
+	],
+	"bst": 490,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City",
+	  "Swamp/Marsh"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 455,
+	"name": "Carnivine",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 454,
+	"evo-stages": 1,
+	"habitats": [
+	  "Forest",
+	  "Swamp/Marsh"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 456,
+	"name": "Finneon",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Storm-Drain",
+	  "Water-Veil"
+	],
+	"bst": 330,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 457,
+	"name": "Lumineon",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Storm-Drain",
+	  "Water-Veil"
+	],
+	"bst": 460,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 458,
+	"name": "Mantyke",
+	"types": [
+	  "Water",
+	  "Flying"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Water-Absorb",
+	  "Water-Veil"
+	],
+	"bst": 345,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 459,
+	"name": "Snover",
+	"types": [
+	  "Grass",
+	  "Ice"
+	],
+	"abilities": [
+	  "Snow-Warning",
+	  "Soundproof"
+	],
+	"bst": 334,
+	"evo-stages": 2,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 460,
+	"name": "Abomasnow",
+	"types": [
+	  "Grass",
+	  "Ice"
+	],
+	"abilities": [
+	  "Snow-Warning",
+	  "Soundproof"
+	],
+	"bst": 494,
+	"evo-stages": 2,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 461,
+	"name": "Weavile",
+	"types": [
+	  "Dark",
+	  "Ice"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Pickpocket"
+	],
+	"bst": 510,
+	"evo-stages": 2,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 462,
+	"name": "Magnezone",
+	"types": [
+	  "Electric",
+	  "Steel"
+	],
+	"abilities": [
+	  "Magnet-Pull",
+	  "Sturdy",
+	  "Analytic"
+	],
+	"bst": 535,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 463,
+	"name": "Lickilicky",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Own-Tempo",
+	  "Oblivious",
+	  "Cloud-Nine"
+	],
+	"bst": 515,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 464,
+	"name": "Rhyperior",
+	"types": [
+	  "Ground",
+	  "Rock"
+	],
+	"abilities": [
+	  "Lightning-Rod",
+	  "Solid-Rock",
+	  "Reckless"
+	],
+	"bst": 535,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 465,
+	"name": "Tangrowth",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Leaf-Guard",
+	  "Regenerator"
+	],
+	"bst": 535,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 466,
+	"name": "Electivire",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Motor-Drive",
+	  "Vital-Spirit"
+	],
+	"bst": 540,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 467,
+	"name": "Magmortar",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Flame-Body",
+	  "Vital-Spirit"
+	],
+	"bst": 540,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City",
+	  "Volcanic/Fiery"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 468,
+	"name": "Togekiss",
+	"types": [
+	  "Fairy",
+	  "Flying"
+	],
+	"abilities": [
+	  "Hustle",
+	  "Serene-Grace",
+	  "Super-Luck"
+	],
+	"bst": 545,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Sky"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 469,
+	"name": "Yanmega",
+	"types": [
+	  "Bug",
+	  "Flying"
+	],
+	"abilities": [
+	  "Speed-Boost",
+	  "Tinted-Lens",
+	  "Frisk"
+	],
+	"bst": 515,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Swamp/Marsh"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 470,
+	"name": "Leafeon",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Leaf-Guard",
+	  "Chlorophyll"
+	],
+	"bst": 525,
+	"evo-stages": 8,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 471,
+	"name": "Glaceon",
+	"types": [
+	  "Ice"
+	],
+	"abilities": [
+	  "Snow-Cloak",
+	  "Ice-Body"
+	],
+	"bst": 525,
+	"evo-stages": 8,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 472,
+	"name": "Gliscor",
+	"types": [
+	  "Ground",
+	  "Flying"
+	],
+	"abilities": [
+	  "Hyper-Cutter",
+	  "Sand-Veil",
+	  "Poison-Heal"
+	],
+	"bst": 510,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 473,
+	"name": "Mamoswine",
+	"types": [
+	  "Ice",
+	  "Ground"
+	],
+	"abilities": [
+	  "Oblivious",
+	  "Snow-Cloak",
+	  "Thick-Fat"
+	],
+	"bst": 530,
+	"evo-stages": 3,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 474,
+	"name": "Porygon-Z",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Adaptability",
+	  "Download",
+	  "Analytic"
+	],
+	"bst": 535,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 475,
+	"name": "Gallade",
+	"types": [
+	  "Psychic",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Steadfast",
+	  "Sharpness",
+	  "Justified"
+	],
+	"bst": 518,
+	"evo-stages": 4,
+	"habitats": [
+	  "Urban/City",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 476,
+	"name": "Probopass",
+	"types": [
+	  "Rock",
+	  "Steel"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Magnet-Pull",
+	  "Sand-Force"
+	],
+	"bst": 525,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 477,
+	"name": "Dusknoir",
+	"types": [
+	  "Ghost"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Frisk"
+	],
+	"bst": 525,
+	"evo-stages": 3,
+	"habitats": [
+	  "Ruins/Cemeteries"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 478,
+	"name": "Froslass",
+	"types": [
+	  "Ice",
+	  "Ghost"
+	],
+	"abilities": [
+	  "Snow-Cloak",
+	  "Cursed-Body"
+	],
+	"bst": 480,
+	"evo-stages": 3,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 479,
+	"name": "Rotom",
+	"types": [
+	  "Electric",
+	  "Ghost"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 440,
+	"evo-stages": 1,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 480,
+	"name": "Uxie",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "River/Lake",
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 481,
+	"name": "Mesprit",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "River/Lake",
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 482,
+	"name": "Azelf",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "River/Lake",
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 483,
+	"name": "Dialga",
+	"types": [
+	  "Steel",
+	  "Dragon"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Telepathy"
+	],
+	"bst": 680,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 484,
+	"name": "Palkia",
+	"types": [
+	  "Water",
+	  "Dragon"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Telepathy"
+	],
+	"bst": 680,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 485,
+	"name": "Heatran",
+	"types": [
+	  "Fire",
+	  "Steel"
+	],
+	"abilities": [
+	  "Flash-Fire",
+	  "Flame-Body"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Volcanic/Fiery",
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 486,
+	"name": "Regigigas",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Slow-Start"
+	],
+	"bst": 670,
+	"evo-stages": 1,
+	"habitats": [
+	  "Cave",
+	  "Ruins/Cemeteries",
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 487,
+	"name": "Giratina-Altered",
+	"types": [
+	  "Ghost",
+	  "Dragon"
+	],
+	"abilities": [
+	  "Pressure",
+	  "Telepathy"
+	],
+	"bst": 680,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 488,
+	"name": "Cresselia",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 489,
+	"name": "Phione",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Hydration"
+	],
+	"bst": 480,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 490,
+	"name": "Manaphy",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Hydration"
+	],
+	"bst": 600,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean",
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 491,
+	"name": "Darkrai",
+	"types": [
+	  "Dark"
+	],
+	"abilities": [
+	  "Bad-Dreams"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Ruins/Cemeteries",
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 492,
+	"name": "Shaymin-Land",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Natural-Cure"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 493,
+	"name": "Arceus",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Multitype"
+	],
+	"bst": 720,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 494,
+	"name": "Victini",
+	"types": [
+	  "Psychic",
+	  "Fire"
+	],
+	"abilities": [
+	  "Victory-Star"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Volcanic/Fiery",
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 495,
+	"name": "Snivy",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Contrary"
+	],
+	"bst": 308,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 496,
+	"name": "Servine",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Contrary"
+	],
+	"bst": 413,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 497,
+	"name": "Serperior",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Overgrow",
+	  "Contrary"
+	],
+	"bst": 528,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 498,
+	"name": "Tepig",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Thick-Fat"
+	],
+	"bst": 308,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 499,
+	"name": "Pignite",
+	"types": [
+	  "Fire",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Thick-Fat"
+	],
+	"bst": 418,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 500,
+	"name": "Emboar",
+	"types": [
+	  "Fire",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Blaze",
+	  "Reckless"
+	],
+	"bst": 528,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Volcanic/Fiery"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 501,
+	"name": "Oshawott",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Shell-Armor"
+	],
+	"bst": 308,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 502,
+	"name": "Dewott",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Shell-Armor"
+	],
+	"bst": 413,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 503,
+	"name": "Samurott",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Torrent",
+	  "Shell-Armor"
+	],
+	"bst": 528,
+	"evo-stages": 3,
+	"habitats": [
+	  "Sea/Ocean",
+	  "River/Lake"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 504,
+	"name": "Patrat",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Run-Away",
+	  "Keen-Eye",
+	  "Analytic"
+	],
+	"bst": 255,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 505,
+	"name": "Watchog",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Illuminate",
+	  "Keen-Eye",
+	  "Analytic"
+	],
+	"bst": 420,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 506,
+	"name": "Lillipup",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Vital-Spirit",
+	  "Pickup",
+	  "Run-Away"
+	],
+	"bst": 275,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 507,
+	"name": "Herdier",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Sand-Rush",
+	  "Scrappy"
+	],
+	"bst": 370,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 508,
+	"name": "Stoutland",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Sand-Rush",
+	  "Scrappy"
+	],
+	"bst": 500,
+	"evo-stages": 3,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 509,
+	"name": "Purrloin",
+	"types": [
+	  "Dark"
+	],
+	"abilities": [
+	  "Limber",
+	  "Unburden",
+	  "Prankster"
+	],
+	"bst": 281,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 510,
+	"name": "Liepard",
+	"types": [
+	  "Dark"
+	],
+	"abilities": [
+	  "Limber",
+	  "Unburden",
+	  "Prankster"
+	],
+	"bst": 446,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 511,
+	"name": "Pansage",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Gluttony",
+	  "Overgrow"
+	],
+	"bst": 316,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 512,
+	"name": "Simisage",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Gluttony",
+	  "Overgrow"
+	],
+	"bst": 498,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 513,
+	"name": "Pansear",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Gluttony",
+	  "Blaze"
+	],
+	"bst": 316,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 514,
+	"name": "Simisear",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Gluttony",
+	  "Blaze"
+	],
+	"bst": 498,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 515,
+	"name": "Panpour",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Gluttony",
+	  "Torrent"
+	],
+	"bst": 316,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 516,
+	"name": "Simipour",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Gluttony",
+	  "Torrent"
+	],
+	"bst": 498,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 517,
+	"name": "Munna",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Forewarn",
+	  "Synchronize",
+	  "Telepathy"
+	],
+	"bst": 292,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 518,
+	"name": "Musharna",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Forewarn",
+	  "Synchronize",
+	  "Telepathy"
+	],
+	"bst": 487,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 519,
+	"name": "Pidove",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Big-Pecks",
+	  "Super-Luck",
+	  "Rivalry"
+	],
+	"bst": 264,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City",
+	  "Sky"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 520,
+	"name": "Tranquill",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Big-Pecks",
+	  "Super-Luck",
+	  "Rivalry"
+	],
+	"bst": 358,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City",
+	  "Sky"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 521,
+	"name": "Unfezant",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Big-Pecks",
+	  "Super-Luck",
+	  "Rivalry"
+	],
+	"bst": 488,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City",
+	  "Sky"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 522,
+	"name": "Blitzle",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Lightning-Rod",
+	  "Motor-Drive",
+	  "Sap-Sipper"
+	],
+	"bst": 295,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 523,
+	"name": "Zebstrika",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Lightning-Rod",
+	  "Motor-Drive",
+	  "Sap-Sipper"
+	],
+	"bst": 497,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 524,
+	"name": "Roggenrola",
+	"types": [
+	  "Rock"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Weak-Armor",
+	  "Sand-Force"
+	],
+	"bst": 280,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 525,
+	"name": "Boldore",
+	"types": [
+	  "Rock"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Weak-Armor",
+	  "Sand-Force"
+	],
+	"bst": 390,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 526,
+	"name": "Gigalith",
+	"types": [
+	  "Rock"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Sand-Stream",
+	  "Sand-Force"
+	],
+	"bst": 515,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 527,
+	"name": "Woobat",
+	"types": [
+	  "Psychic",
+	  "Flying"
+	],
+	"abilities": [
+	  "Unaware",
+	  "Klutz",
+	  "Simple"
+	],
+	"bst": 323,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 528,
+	"name": "Swoobat",
+	"types": [
+	  "Psychic",
+	  "Flying"
+	],
+	"abilities": [
+	  "Unaware",
+	  "Klutz",
+	  "Simple"
+	],
+	"bst": 425,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 529,
+	"name": "Drilbur",
+	"types": [
+	  "Ground"
+	],
+	"abilities": [
+	  "Sand-Rush",
+	  "Sand-Force",
+	  "Mold-Breaker"
+	],
+	"bst": 328,
+	"evo-stages": 2,
+	"habitats": [
+	  "Cave",
+	  "Underground"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 530,
+	"name": "Excadrill",
+	"types": [
+	  "Ground",
+	  "Steel"
+	],
+	"abilities": [
+	  "Sand-Rush",
+	  "Sand-Force",
+	  "Mold-Breaker"
+	],
+	"bst": 508,
+	"evo-stages": 2,
+	"habitats": [
+	  "Cave",
+	  "Underground"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 531,
+	"name": "Audino",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Healer",
+	  "Regenerator",
+	  "Klutz"
+	],
+	"bst": 445,
+	"evo-stages": 1,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 532,
+	"name": "Timburr",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Guts",
+	  "Sheer-Force",
+	  "Iron-Fist"
+	],
+	"bst": 305,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 533,
+	"name": "Gurdurr",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Guts",
+	  "Sheer-Force",
+	  "Iron-Fist"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 534,
+	"name": "Conkeldurr",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Guts",
+	  "Sheer-Force",
+	  "Iron-Fist"
+	],
+	"bst": 505,
+	"evo-stages": 3,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 535,
+	"name": "Tympole",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Hydration",
+	  "Water-Absorb"
+	],
+	"bst": 294,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Swamp/Marsh"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 536,
+	"name": "Palpitoad",
+	"types": [
+	  "Water",
+	  "Ground"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Hydration",
+	  "Water-Absorb"
+	],
+	"bst": 384,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Swamp/Marsh"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 537,
+	"name": "Seismitoad",
+	"types": [
+	  "Water",
+	  "Ground"
+	],
+	"abilities": [
+	  "Swift-Swim",
+	  "Poison-Touch",
+	  "Water-Absorb"
+	],
+	"bst": 509,
+	"evo-stages": 3,
+	"habitats": [
+	  "River/Lake",
+	  "Swamp/Marsh"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 538,
+	"name": "Throh",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Guts",
+	  "Inner-Focus",
+	  "Mold-Breaker"
+	],
+	"bst": 465,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 539,
+	"name": "Sawk",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Inner-Focus",
+	  "Mold-Breaker"
+	],
+	"bst": 465,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 540,
+	"name": "Sewaddle",
+	"types": [
+	  "Bug",
+	  "Grass"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Chlorophyll",
+	  "Overcoat"
+	],
+	"bst": 310,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 541,
+	"name": "Swadloon",
+	"types": [
+	  "Bug",
+	  "Grass"
+	],
+	"abilities": [
+	  "Leaf-Guard",
+	  "Chlorophyll",
+	  "Overcoat"
+	],
+	"bst": 380,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 542,
+	"name": "Leavanny",
+	"types": [
+	  "Bug",
+	  "Grass"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Chlorophyll",
+	  "Overcoat"
+	],
+	"bst": 500,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 543,
+	"name": "Venipede",
+	"types": [
+	  "Bug",
+	  "Poison"
+	],
+	"abilities": [
+	  "Poison-Point",
+	  "Swarm",
+	  "Speed-Boost"
+	],
+	"bst": 260,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 544,
+	"name": "Whirlipede",
+	"types": [
+	  "Bug",
+	  "Poison"
+	],
+	"abilities": [
+	  "Poison-Point",
+	  "Swarm",
+	  "Speed-Boost"
+	],
+	"bst": 360,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 545,
+	"name": "Scolipede",
+	"types": [
+	  "Bug",
+	  "Poison"
+	],
+	"abilities": [
+	  "Poison-Point",
+	  "Swarm",
+	  "Speed-Boost"
+	],
+	"bst": 485,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 546,
+	"name": "Cottonee",
+	"types": [
+	  "Grass",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Prankster",
+	  "Infiltrator",
+	  "Chlorophyll"
+	],
+	"bst": 280,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 547,
+	"name": "Whimsicott",
+	"types": [
+	  "Grass",
+	  "Fairy"
+	],
+	"abilities": [
+	  "Prankster",
+	  "Infiltrator",
+	  "Chlorophyll"
+	],
+	"bst": 480,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 548,
+	"name": "Petilil",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Own-Tempo",
+	  "Leaf-Guard"
+	],
+	"bst": 280,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 549,
+	"name": "Lilligant",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Own-Tempo",
+	  "Leaf-Guard"
+	],
+	"bst": 480,
+	"evo-stages": 2,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 550,
+	"name": "Basculin-Red-Striped",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Reckless",
+	  "Adaptability",
+	  "Mold-Breaker"
+	],
+	"bst": 460,
+	"evo-stages": 1,
+	"habitats": [
+	  "River/Lake"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 551,
+	"name": "Sandile",
+	"types": [
+	  "Ground",
+	  "Dark"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Moxie",
+	  "Anger-Point"
+	],
+	"bst": 292,
+	"evo-stages": 3,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 552,
+	"name": "Krokorok",
+	"types": [
+	  "Ground",
+	  "Dark"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Moxie",
+	  "Anger-Point"
+	],
+	"bst": 351,
+	"evo-stages": 3,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 553,
+	"name": "Krookodile",
+	"types": [
+	  "Ground",
+	  "Dark"
+	],
+	"abilities": [
+	  "Intimidate",
+	  "Moxie",
+	  "Anger-Point"
+	],
+	"bst": 519,
+	"evo-stages": 3,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 554,
+	"name": "Darumaka",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Hustle",
+	  "Inner-Focus"
+	],
+	"bst": 315,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 555,
+	"name": "Darmanitan-Standard",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Sheer-Force",
+	  "Zen-Mode"
+	],
+	"bst": 480,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 556,
+	"name": "Maractus",
+	"types": [
+	  "Grass"
+	],
+	"abilities": [
+	  "Water-Absorb",
+	  "Chlorophyll",
+	  "Storm-Drain"
+	],
+	"bst": 461,
+	"evo-stages": 1,
+	"habitats": [
+	  "Desert",
+	  "Badlands"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 557,
+	"name": "Dwebble",
+	"types": [
+	  "Bug",
+	  "Rock"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Shell-Armor",
+	  "Weak-Armor"
+	],
+	"bst": 325,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 558,
+	"name": "Crustle",
+	"types": [
+	  "Bug",
+	  "Rock"
+	],
+	"abilities": [
+	  "Sturdy",
+	  "Shell-Armor",
+	  "Weak-Armor"
+	],
+	"bst": 485,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 559,
+	"name": "Scraggy",
+	"types": [
+	  "Dark",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Shed-Skin",
+	  "Moxie",
+	  "Intimidate"
+	],
+	"bst": 348,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 560,
+	"name": "Scrafty",
+	"types": [
+	  "Dark",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Shed-Skin",
+	  "Moxie",
+	  "Intimidate"
+	],
+	"bst": 488,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 561,
+	"name": "Sigilyph",
+	"types": [
+	  "Psychic",
+	  "Flying"
+	],
+	"abilities": [
+	  "Wonder-Skin",
+	  "Magic-Guard",
+	  "Tinted-Lens"
+	],
+	"bst": 490,
+	"evo-stages": 1,
+	"habitats": [
+	  "Desert",
+	  "Ruins/Cemeteries",
+	  "Badlands"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 562,
+	"name": "Yamask",
+	"types": [
+	  "Ghost"
+	],
+	"abilities": [
+	  "Mummy"
+	],
+	"bst": 303,
+	"evo-stages": 3,
+	"habitats": [
+	  "Desert",
+	  "Ruins/Cemeteries",
+	  "Badlands"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 563,
+	"name": "Cofagrigus",
+	"types": [
+	  "Ghost"
+	],
+	"abilities": [
+	  "Mummy"
+	],
+	"bst": 483,
+	"evo-stages": 3,
+	"habitats": [
+	  "Desert",
+	  "Ruins/Cemeteries",
+	  "Badlands"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 564,
+	"name": "Tirtouga",
+	"types": [
+	  "Water",
+	  "Rock"
+	],
+	"abilities": [
+	  "Solid-Rock",
+	  "Sturdy",
+	  "Swift-Swim"
+	],
+	"bst": 355,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 565,
+	"name": "Carracosta",
+	"types": [
+	  "Water",
+	  "Rock"
+	],
+	"abilities": [
+	  "Solid-Rock",
+	  "Sturdy",
+	  "Swift-Swim"
+	],
+	"bst": 495,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 566,
+	"name": "Archen",
+	"types": [
+	  "Rock",
+	  "Flying"
+	],
+	"abilities": [
+	  "Defeatist"
+	],
+	"bst": 401,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 567,
+	"name": "Archeops",
+	"types": [
+	  "Rock",
+	  "Flying"
+	],
+	"abilities": [
+	  "Defeatist"
+	],
+	"bst": 567,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 568,
+	"name": "Trubbish",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Stench",
+	  "Sticky-Hold",
+	  "Aftermath"
+	],
+	"bst": 329,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 569,
+	"name": "Garbodor",
+	"types": [
+	  "Poison"
+	],
+	"abilities": [
+	  "Stench",
+	  "Weak-Armor",
+	  "Aftermath"
+	],
+	"bst": 474,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 570,
+	"name": "Zorua",
+	"types": [
+	  "Dark"
+	],
+	"abilities": [
+	  "Illusion"
+	],
+	"bst": 330,
+	"evo-stages": 2,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 571,
+	"name": "Zoroark",
+	"types": [
+	  "Dark"
+	],
+	"abilities": [
+	  "Illusion"
+	],
+	"bst": 510,
+	"evo-stages": 2,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 572,
+	"name": "Minccino",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Cute-Charm",
+	  "Technician",
+	  "Skill-Link"
+	],
+	"bst": 300,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 573,
+	"name": "Cinccino",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Cute-Charm",
+	  "Technician",
+	  "Skill-Link"
+	],
+	"bst": 470,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 574,
+	"name": "Gothita",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Frisk",
+	  "Competitive",
+	  "Shadow-Tag"
+	],
+	"bst": 290,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 575,
+	"name": "Gothorita",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Frisk",
+	  "Competitive",
+	  "Shadow-Tag"
+	],
+	"bst": 390,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 576,
+	"name": "Gothitelle",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Frisk",
+	  "Competitive",
+	  "Shadow-Tag"
+	],
+	"bst": 490,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 577,
+	"name": "Solosis",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Overcoat",
+	  "Magic-Guard",
+	  "Regenerator"
+	],
+	"bst": 290,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 578,
+	"name": "Duosion",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Overcoat",
+	  "Magic-Guard",
+	  "Regenerator"
+	],
+	"bst": 370,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 579,
+	"name": "Reuniclus",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Overcoat",
+	  "Magic-Guard",
+	  "Regenerator"
+	],
+	"bst": 490,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 580,
+	"name": "Ducklett",
+	"types": [
+	  "Water",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Big-Pecks",
+	  "Hydration"
+	],
+	"bst": 305,
+	"evo-stages": 2,
+	"habitats": [
+	  "River/Lake"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 581,
+	"name": "Swanna",
+	"types": [
+	  "Water",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Big-Pecks",
+	  "Hydration"
+	],
+	"bst": 473,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sky",
+	  "River/Lake"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 582,
+	"name": "Vanillite",
+	"types": [
+	  "Ice"
+	],
+	"abilities": [
+	  "Ice-Body",
+	  "Snow-Cloak",
+	  "Weak-Armor"
+	],
+	"bst": 305,
+	"evo-stages": 3,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 583,
+	"name": "Vanillish",
+	"types": [
+	  "Ice"
+	],
+	"abilities": [
+	  "Ice-Body",
+	  "Snow-Cloak",
+	  "Weak-Armor"
+	],
+	"bst": 395,
+	"evo-stages": 3,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 584,
+	"name": "Vanilluxe",
+	"types": [
+	  "Ice"
+	],
+	"abilities": [
+	  "Ice-Body",
+	  "Snow-Warning",
+	  "Weak-Armor"
+	],
+	"bst": 535,
+	"evo-stages": 3,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 585,
+	"name": "Deerling",
+	"types": [
+	  "Normal",
+	  "Grass"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Sap-Sipper",
+	  "Serene-Grace"
+	],
+	"bst": 335,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 586,
+	"name": "Sawsbuck",
+	"types": [
+	  "Normal",
+	  "Grass"
+	],
+	"abilities": [
+	  "Chlorophyll",
+	  "Sap-Sipper",
+	  "Serene-Grace"
+	],
+	"bst": 475,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 587,
+	"name": "Emolga",
+	"types": [
+	  "Electric",
+	  "Flying"
+	],
+	"abilities": [
+	  "Static",
+	  "Motor-Drive"
+	],
+	"bst": 428,
+	"evo-stages": 1,
+	"habitats": [
+	  "Forest",
+	  "Urban/City",
+	  "Sky"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 588,
+	"name": "Karrablast",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Shed-Skin",
+	  "No-Guard"
+	],
+	"bst": 315,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 589,
+	"name": "Escavalier",
+	"types": [
+	  "Bug",
+	  "Steel"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Shell-Armor",
+	  "Overcoat"
+	],
+	"bst": 495,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 590,
+	"name": "Foongus",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Effect-Spore",
+	  "Regenerator"
+	],
+	"bst": 294,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 591,
+	"name": "Amoonguss",
+	"types": [
+	  "Grass",
+	  "Poison"
+	],
+	"abilities": [
+	  "Effect-Spore",
+	  "Regenerator"
+	],
+	"bst": 464,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 592,
+	"name": "Frillish",
+	"types": [
+	  "Water",
+	  "Ghost"
+	],
+	"abilities": [
+	  "Water-Absorb",
+	  "Cursed-Body",
+	  "Damp"
+	],
+	"bst": 335,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 593,
+	"name": "Jellicent",
+	"types": [
+	  "Water",
+	  "Ghost"
+	],
+	"abilities": [
+	  "Water-Absorb",
+	  "Cursed-Body",
+	  "Damp"
+	],
+	"bst": 480,
+	"evo-stages": 2,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 594,
+	"name": "Alomomola",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Healer",
+	  "Hydration",
+	  "Regenerator"
+	],
+	"bst": 470,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sea/Ocean"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 595,
+	"name": "Joltik",
+	"types": [
+	  "Bug",
+	  "Electric"
+	],
+	"abilities": [
+	  "Compound-Eyes",
+	  "Unnerve",
+	  "Swarm"
+	],
+	"bst": 319,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 596,
+	"name": "Galvantula",
+	"types": [
+	  "Bug",
+	  "Electric"
+	],
+	"abilities": [
+	  "Compound-Eyes",
+	  "Unnerve",
+	  "Swarm"
+	],
+	"bst": 472,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 597,
+	"name": "Ferroseed",
+	"types": [
+	  "Grass",
+	  "Steel"
+	],
+	"abilities": [
+	  "Iron-Barbs"
+	],
+	"bst": 305,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 598,
+	"name": "Ferrothorn",
+	"types": [
+	  "Grass",
+	  "Steel"
+	],
+	"abilities": [
+	  "Iron-Barbs",
+	  "Anticipation"
+	],
+	"bst": 489,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 599,
+	"name": "Klink",
+	"types": [
+	  "Steel"
+	],
+	"abilities": [
+	  "Plus",
+	  "Minus",
+	  "Clear-Body"
+	],
+	"bst": 300,
+	"evo-stages": 3,
+	"habitats": [
+	  "Cave",
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 600,
+	"name": "Klang",
+	"types": [
+	  "Steel"
+	],
+	"abilities": [
+	  "Plus",
+	  "Minus",
+	  "Clear-Body"
+	],
+	"bst": 440,
+	"evo-stages": 3,
+	"habitats": [
+	  "Cave",
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 601,
+	"name": "Klinklang",
+	"types": [
+	  "Steel"
+	],
+	"abilities": [
+	  "Plus",
+	  "Minus",
+	  "Clear-Body"
+	],
+	"bst": 520,
+	"evo-stages": 3,
+	"habitats": [
+	  "Cave",
+	  "Urban/City"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 602,
+	"name": "Tynamo",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 275,
+	"evo-stages": 3,
+	"habitats": [
+	  "Cave",
+	  "River/Lake"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 603,
+	"name": "Eelektrik",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 405,
+	"evo-stages": 3,
+	"habitats": [
+	  "Cave",
+	  "River/Lake"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 604,
+	"name": "Eelektross",
+	"types": [
+	  "Electric"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 515,
+	"evo-stages": 3,
+	"habitats": [
+	  "Cave",
+	  "River/Lake"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 605,
+	"name": "Elgyem",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Telepathy",
+	  "Synchronize",
+	  "Analytic"
+	],
+	"bst": 335,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 606,
+	"name": "Beheeyem",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Telepathy",
+	  "Synchronize",
+	  "Analytic"
+	],
+	"bst": 485,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 607,
+	"name": "Litwick",
+	"types": [
+	  "Ghost",
+	  "Fire"
+	],
+	"abilities": [
+	  "Flash-Fire",
+	  "Flame-Body",
+	  "Infiltrator"
+	],
+	"bst": 275,
+	"evo-stages": 3,
+	"habitats": [
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 608,
+	"name": "Lampent",
+	"types": [
+	  "Ghost",
+	  "Fire"
+	],
+	"abilities": [
+	  "Flash-Fire",
+	  "Flame-Body",
+	  "Infiltrator"
+	],
+	"bst": 370,
+	"evo-stages": 3,
+	"habitats": [
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 609,
+	"name": "Chandelure",
+	"types": [
+	  "Ghost",
+	  "Fire"
+	],
+	"abilities": [
+	  "Flash-Fire",
+	  "Flame-Body",
+	  "Infiltrator"
+	],
+	"bst": 520,
+	"evo-stages": 3,
+	"habitats": [
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 610,
+	"name": "Axew",
+	"types": [
+	  "Dragon"
+	],
+	"abilities": [
+	  "Rivalry",
+	  "Mold-Breaker",
+	  "Unnerve"
+	],
+	"bst": 320,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 611,
+	"name": "Fraxure",
+	"types": [
+	  "Dragon"
+	],
+	"abilities": [
+	  "Rivalry",
+	  "Mold-Breaker",
+	  "Unnerve"
+	],
+	"bst": 410,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 612,
+	"name": "Haxorus",
+	"types": [
+	  "Dragon"
+	],
+	"abilities": [
+	  "Rivalry",
+	  "Mold-Breaker",
+	  "Unnerve"
+	],
+	"bst": 540,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 613,
+	"name": "Cubchoo",
+	"types": [
+	  "Ice"
+	],
+	"abilities": [
+	  "Snow-Cloak",
+	  "Slush-Rush",
+	  "Rattled"
+	],
+	"bst": 305,
+	"evo-stages": 2,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 614,
+	"name": "Beartic",
+	"types": [
+	  "Ice"
+	],
+	"abilities": [
+	  "Snow-Cloak",
+	  "Slush-Rush",
+	  "Swift-Swim"
+	],
+	"bst": 505,
+	"evo-stages": 2,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 615,
+	"name": "Cryogonal",
+	"types": [
+	  "Ice"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 515,
+	"evo-stages": 1,
+	"habitats": [
+	  "Tundra/Arctic"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 616,
+	"name": "Shelmet",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Hydration",
+	  "Shell-Armor",
+	  "Overcoat"
+	],
+	"bst": 305,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 617,
+	"name": "Accelgor",
+	"types": [
+	  "Bug"
+	],
+	"abilities": [
+	  "Hydration",
+	  "Sticky-Hold",
+	  "Unburden"
+	],
+	"bst": 495,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 618,
+	"name": "Stunfisk",
+	"types": [
+	  "Ground",
+	  "Electric"
+	],
+	"abilities": [
+	  "Static",
+	  "Limber",
+	  "Sand-Veil"
+	],
+	"bst": 471,
+	"evo-stages": 1,
+	"habitats": [
+	  "Cave",
+	  "River/Lake"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 619,
+	"name": "Mienfoo",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Inner-Focus",
+	  "Regenerator",
+	  "Reckless"
+	],
+	"bst": 350,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 620,
+	"name": "Mienshao",
+	"types": [
+	  "Fighting"
+	],
+	"abilities": [
+	  "Inner-Focus",
+	  "Regenerator",
+	  "Reckless"
+	],
+	"bst": 510,
+	"evo-stages": 2,
+	"habitats": [
+	  "Forest",
+	  "Cave"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 621,
+	"name": "Druddigon",
+	"types": [
+	  "Dragon"
+	],
+	"abilities": [
+	  "Rough-Skin",
+	  "Sheer-Force",
+	  "Mold-Breaker"
+	],
+	"bst": 485,
+	"evo-stages": 1,
+	"habitats": [
+	  "Mountain"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 622,
+	"name": "Golett",
+	"types": [
+	  "Ground",
+	  "Ghost"
+	],
+	"abilities": [
+	  "Iron-Fist",
+	  "Klutz",
+	  "No-Guard"
+	],
+	"bst": 303,
+	"evo-stages": 2,
+	"habitats": [
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 623,
+	"name": "Golurk",
+	"types": [
+	  "Ground",
+	  "Ghost"
+	],
+	"abilities": [
+	  "Iron-Fist",
+	  "Klutz",
+	  "No-Guard"
+	],
+	"bst": 483,
+	"evo-stages": 2,
+	"habitats": [
+	  "Cave",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 624,
+	"name": "Pawniard",
+	"types": [
+	  "Dark",
+	  "Steel"
+	],
+	"abilities": [
+	  "Defiant",
+	  "Inner-Focus",
+	  "Pressure"
+	],
+	"bst": 340,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 625,
+	"name": "Bisharp",
+	"types": [
+	  "Dark",
+	  "Steel"
+	],
+	"abilities": [
+	  "Defiant",
+	  "Inner-Focus",
+	  "Pressure"
+	],
+	"bst": 490,
+	"evo-stages": 2,
+	"habitats": [
+	  "Urban/City",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 626,
+	"name": "Bouffalant",
+	"types": [
+	  "Normal"
+	],
+	"abilities": [
+	  "Reckless",
+	  "Sap-Sipper",
+	  "Soundproof"
+	],
+	"bst": 490,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 627,
+	"name": "Rufflet",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Sheer-Force",
+	  "Hustle"
+	],
+	"bst": 350,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 628,
+	"name": "Braviary",
+	"types": [
+	  "Normal",
+	  "Flying"
+	],
+	"abilities": [
+	  "Keen-Eye",
+	  "Sheer-Force",
+	  "Defiant"
+	],
+	"bst": 510,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Sky"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 629,
+	"name": "Vullaby",
+	"types": [
+	  "Dark",
+	  "Flying"
+	],
+	"abilities": [
+	  "Big-Pecks",
+	  "Overcoat",
+	  "Weak-Armor"
+	],
+	"bst": 370,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Badlands"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 630,
+	"name": "Mandibuzz",
+	"types": [
+	  "Dark",
+	  "Flying"
+	],
+	"abilities": [
+	  "Big-Pecks",
+	  "Overcoat",
+	  "Weak-Armor"
+	],
+	"bst": 510,
+	"evo-stages": 2,
+	"habitats": [
+	  "Mountain",
+	  "Badlands"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 631,
+	"name": "Heatmor",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Gluttony",
+	  "Flash-Fire",
+	  "White-Smoke"
+	],
+	"bst": 484,
+	"evo-stages": 1,
+	"habitats": [
+	  "Desert",
+	  "Volcanic/Fiery"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 632,
+	"name": "Durant",
+	"types": [
+	  "Bug",
+	  "Steel"
+	],
+	"abilities": [
+	  "Swarm",
+	  "Hustle",
+	  "Truant"
+	],
+	"bst": 484,
+	"evo-stages": 1,
+	"habitats": [
+	  "Cave",
+	  "Underground"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 633,
+	"name": "Deino",
+	"types": [
+	  "Dark",
+	  "Dragon"
+	],
+	"abilities": [
+	  "Hustle"
+	],
+	"bst": 300,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 634,
+	"name": "Zweilous",
+	"types": [
+	  "Dark",
+	  "Dragon"
+	],
+	"abilities": [
+	  "Hustle"
+	],
+	"bst": 420,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 635,
+	"name": "Hydreigon",
+	"types": [
+	  "Dark",
+	  "Dragon"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 600,
+	"evo-stages": 3,
+	"habitats": [
+	  "Mountain",
+	  "Sky"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 636,
+	"name": "Larvesta",
+	"types": [
+	  "Bug",
+	  "Fire"
+	],
+	"abilities": [
+	  "Flame-Body",
+	  "Swarm"
+	],
+	"bst": 360,
+	"evo-stages": 2,
+	"habitats": [
+	  "Desert",
+	  "Ruins/Cemeteries",
+	  "Volcanic/Fiery"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 637,
+	"name": "Volcarona",
+	"types": [
+	  "Bug",
+	  "Fire"
+	],
+	"abilities": [
+	  "Flame-Body",
+	  "Swarm"
+	],
+	"bst": 550,
+	"evo-stages": 2,
+	"habitats": [
+	  "Desert",
+	  "Ruins/Cemeteries",
+	  "Volcanic/Fiery"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 638,
+	"name": "Cobalion",
+	"types": [
+	  "Steel",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Justified"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 639,
+	"name": "Terrakion",
+	"types": [
+	  "Rock",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Justified"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 640,
+	"name": "Virizion",
+	"types": [
+	  "Grass",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Justified"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 641,
+	"name": "Tornadus-Incarnate",
+	"types": [
+	  "Flying"
+	],
+	"abilities": [
+	  "Prankster",
+	  "Defiant"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 642,
+	"name": "Thundurus-Incarnate",
+	"types": [
+	  "Electric",
+	  "Flying"
+	],
+	"abilities": [
+	  "Prankster",
+	  "Defiant"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 643,
+	"name": "Reshiram",
+	"types": [
+	  "Dragon",
+	  "Fire"
+	],
+	"abilities": [
+	  "Turboblaze"
+	],
+	"bst": 680,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 644,
+	"name": "Zekrom",
+	"types": [
+	  "Dragon",
+	  "Electric"
+	],
+	"abilities": [
+	  "Teravolt"
+	],
+	"bst": 680,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 645,
+	"name": "Landorus-Incarnate",
+	"types": [
+	  "Ground",
+	  "Flying"
+	],
+	"abilities": [
+	  "Sand-Force",
+	  "Sheer-Force"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 646,
+	"name": "Kyurem",
+	"types": [
+	  "Dragon",
+	  "Ice"
+	],
+	"abilities": [
+	  "Pressure"
+	],
+	"bst": 660,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 647,
+	"name": "Keldeo-Ordinary",
+	"types": [
+	  "Water",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Justified"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 648,
+	"name": "Meloetta-Aria",
+	"types": [
+	  "Normal",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Serene-Grace"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Urban/City",
+	  "Ruins/Cemeteries",
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 649,
+	"name": "Genesect",
+	"types": [
+	  "Bug",
+	  "Steel"
+	],
+	"abilities": [
+	  "Download"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 10001,
+	"name": "Deoxys-Attack",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Pressure"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 10002,
+	"name": "Deoxys-Defense",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Pressure"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 10003,
+	"name": "Deoxys-Speed",
+	"types": [
+	  "Psychic"
+	],
+	"abilities": [
+	  "Pressure"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 10004,
+	"name": "Wormadam-Sandy",
+	"types": [
+	  "Bug",
+	  "Ground"
+	],
+	"abilities": [
+	  "Anticipation",
+	  "Overcoat"
+	],
+	"bst": 424,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Desert"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 10005,
+	"name": "Wormadam-Trash",
+	"types": [
+	  "Bug",
+	  "Steel"
+	],
+	"abilities": [
+	  "Anticipation",
+	  "Overcoat"
+	],
+	"bst": 424,
+	"evo-stages": 3,
+	"habitats": [
+	  "Forest",
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 10006,
+	"name": "Shaymin-Sky",
+	"types": [
+	  "Grass",
+	  "Flying"
+	],
+	"abilities": [
+	  "Serene-Grace"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Forest",
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 10007,
+	"name": "Giratina-Origin",
+	"types": [
+	  "Ghost",
+	  "Dragon"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 680,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 10008,
+	"name": "Rotom-Heat",
+	"types": [
+	  "Electric",
+	  "Fire"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 520,
+	"evo-stages": 1,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 10009,
+	"name": "Rotom-Wash",
+	"types": [
+	  "Electric",
+	  "Water"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 520,
+	"evo-stages": 1,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 10010,
+	"name": "Rotom-Frost",
+	"types": [
+	  "Electric",
+	  "Ice"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 520,
+	"evo-stages": 1,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 10011,
+	"name": "Rotom-Fan",
+	"types": [
+	  "Electric",
+	  "Flying"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 520,
+	"evo-stages": 1,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 10012,
+	"name": "Rotom-Mow",
+	"types": [
+	  "Electric",
+	  "Grass"
+	],
+	"abilities": [
+	  "Levitate"
+	],
+	"bst": 520,
+	"evo-stages": 1,
+	"habitats": [
+	  "Urban/City"
+	],
+	"generation": 4
+  },
+  {
+	"dex": 10013,
+	"name": "Castform-Sunny",
+	"types": [
+	  "Fire"
+	],
+	"abilities": [
+	  "Forecast"
+	],
+	"bst": 420,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Tropical"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 10014,
+	"name": "Castform-Rainy",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Forecast"
+	],
+	"bst": 420,
+	"evo-stages": 1,
+	"habitats": [
+	  "Grassland/Plains",
+	  "Forest",
+	  "Tropical"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 10015,
+	"name": "Castform-Snowy",
+	"types": [
+	  "Ice"
+	],
+	"abilities": [
+	  "Forecast"
+	],
+	"bst": 420,
+	"evo-stages": 1,
+	"habitats": [
+	  "Tundra/Arctic",
+	  "Tropical"
+	],
+	"generation": 3
+  },
+  {
+	"dex": 10016,
+	"name": "Basculin-Blue-Striped",
+	"types": [
+	  "Water"
+	],
+	"abilities": [
+	  "Rock-Head",
+	  "Adaptability",
+	  "Mold-Breaker"
+	],
+	"bst": 460,
+	"evo-stages": 1,
+	"habitats": [
+	  "River/Lake"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 10017,
+	"name": "Darmanitan-Zen",
+	"types": [
+	  "Fire",
+	  "Psychic"
+	],
+	"abilities": [
+	  "Sheer-Force",
+	  "Zen-Mode"
+	],
+	"bst": 540,
+	"evo-stages": 2,
+	"habitats": [
+	  "Desert",
+	  "Ruins/Cemeteries"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 10018,
+	"name": "Meloetta-Pirouette",
+	"types": [
+	  "Normal",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Serene-Grace"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Urban/City",
+	  "Ruins/Cemeteries",
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 10019,
+	"name": "Tornadus-Therian",
+	"types": [
+	  "Flying"
+	],
+	"abilities": [
+	  "Regenerator"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 10020,
+	"name": "Thundurus-Therian",
+	"types": [
+	  "Electric",
+	  "Flying"
+	],
+	"abilities": [
+	  "Volt-Absorb"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 10021,
+	"name": "Landorus-Therian",
+	"types": [
+	  "Ground",
+	  "Flying"
+	],
+	"abilities": [
+	  "Intimidate"
+	],
+	"bst": 600,
+	"evo-stages": 1,
+	"habitats": [
+	  "Sky",
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 10022,
+	"name": "Kyurem-Black",
+	"types": [
+	  "Dragon",
+	  "Ice"
+	],
+	"abilities": [
+	  "Teravolt"
+	],
+	"bst": 700,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 10023,
+	"name": "Kyurem-White",
+	"types": [
+	  "Dragon",
+	  "Ice"
+	],
+	"abilities": [
+	  "Turboblaze"
+	],
+	"bst": 700,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 5
+  },
+  {
+	"dex": 10024,
+	"name": "Keldeo-Resolute",
+	"types": [
+	  "Water",
+	  "Fighting"
+	],
+	"abilities": [
+	  "Justified"
+	],
+	"bst": 580,
+	"evo-stages": 1,
+	"habitats": [
+	  "Rare"
+	],
+	"generation": 5
+  }
+]

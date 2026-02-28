@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Wordlemon</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<h1>🟩🟨🟥 Wordlemon</h1>
+
+<p class="counter">
+    Guess {{ guess_count }} / {{ max_guesses }}
+</p>
+
+
+<form method="POST" action="/">
+    <input
+        type="text"
+        name="guess"
+        id="guess-input"
+        list="pokemon-list"
+        autocomplete="on"
+        required
+    >
+    <datalist id="pokemon-list">
+        {% for name in all_pokemon_names %}
+            <option value="{{ name }}">
+        {% endfor %}
+    </datalist>
+    <button type="submit">Guess</button>
+</form>
+
+
+{% if message %}
+<p class="message">{{ message }}</p>
+{% endif %}
+
+{% if finished_card %}
+<div class="guess-container-grid">
+    {% set name, result = finished_card %}
+    <div class="pokemon-card winner-card">
+        <div class="card-header">
+            <div class="header-bg">
+                <h2>{{ name.capitalize() }}</h2>
+            </div>
+        </div>
+
+        <img class="sprite"
+             src="{{ url_for('static', filename='gifs/' + name|lower + '.gif') }}">
+
+        <div class="card-body">
+            {% for attr in attribute_order %}
+                <div class="stat-row {{ result[attr][0] }}">
+                    <span class="stat-name">{{ attr }}</span>
+                    <span class="stat-value">{{ result[attr][1] }}</span>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endif %}
+
+
+<div class="guess-container-grid">
+    {% for name, result in guesses %}
+        <div class="pokemon-card">
+            <div class="card-header">
+                     <div class="header-bg">
+                        <h2>{{ name.capitalize() }}</h2>
+                     </div>
+            </div>
+            <img class="sprite" src="{{ url_for('static', filename='gifs/' + name|lower + '.gif') }}">
+            <div class="card-body">
+                {% for attr in attribute_order %}
+                    <div class="stat-row {{ result[attr][0] }}">
+                        <span class="stat-name">{{ attr }}</span>
+                        <span class="stat-value">{{ result[attr][1] }}</span>
+                    </div>
+                {% endfor %}
+            </div>
+
+        </div>
+    {% endfor %}
+</div>
+
+
+</body>
+</html>
+<script>
+const input = document.getElementById("guess-input");
+const names = {{ all_pokemon_names | tojson | safe }};
+input.addEventListener("input", function() {
+    const val = this.value.toLowerCase();
+    const suggestions = names.filter(n => n.toLowerCase().startsWith(val)).slice(0, 10);
+    // This is just a simple suggestion console.log
+    console.log(suggestions);
+});
+</script>
