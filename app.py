@@ -1,8 +1,9 @@
-from flask import Flask, render_template, request, session
+from flask import Flask, render_template, request, session, redirect, url_for
 import json, random
 
-app = Flask(__name__)
-app.secret_key = "pokemon-wordle-secret"
+app = Flask(__name__, subdomain_matching=True)
+app.config["SERVER_NAME"] = "domain.local:5000"
+app.secret_key = "testsecret123"
 
 ATTRIBUTE_ORDER = [
     "Type",
@@ -34,7 +35,6 @@ TYPE_COLORS = {
     "steel": "#B8B8D0",
 }
 
-app.config['SERVER_NAME'] = 'localhost:5000'
 
 # ---------- LOAD DATA ----------
 def load_pokemon(path="pkmn.json"):
@@ -82,7 +82,7 @@ def evaluate_guess(guess, target):
     }
 
 # ---------- ROUTES ----------
-@app.route("/Wordlemon", methods=["GET", "POST"])
+@app.route("/", methods=["GET", "POST"], subdomain="wordlemon")
 def wordlemon():
     # Reset the game if session does not have a target (fresh start or script restart)
     # Always start fresh if no game exists
@@ -144,7 +144,7 @@ def wordlemon():
                     if guess_count >= MAX_GUESSES:
                         finished_target = session["target"]
 
-                        message = "Game over!\nCorrect Pokémon:"
+                        message = "Game over! Correct Pokémon:"
                         session["finished_target"] = finished_target
 
                         session.pop("target", None)
@@ -190,6 +190,12 @@ def index():
     return render_template(
         "index.html"
     )
+
+@app.route("/home", subdomain="wordlemon")
+def home():
+    session.clear()
+    return redirect(url_for("index", _external=True))
+
 
 if __name__ == "__main__":
     app.run(debug=True)

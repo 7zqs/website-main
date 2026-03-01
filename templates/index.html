@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../static/main.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
     <title>Website :3</title>
 </head>
 
@@ -30,7 +30,7 @@
         <p class="listheader">Games</p>
         <ul class="game-links">
             <li id="wordlemon-link">
-            <a href="{{ url_for('wordlemon') }}">Wordlemon</a>
+            <a href="{{ url_for('wordlemon', _external=True) }}">Wordlemon</a>
             </li>
             <li id="word-guess">
             <a href="file:///home/kiri/Documents/web/pkmn/templates/test.html">Guess the Word</a>

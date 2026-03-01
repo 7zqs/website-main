@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../static/wordlemon.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='wordlemon.css') }}">
     <title>Wordlemon</title>
 </head>
 
@@ -24,7 +24,7 @@
         <p class="listheader">Information</p>
         <ul class="info-links">
             <li id="mainpage">
-                <a href="{{ url_for('index') }}">Main Page</a>
+                <a href="{{ url_for('home', _external=True) }}">Main Page</a>
             </li>
         </ul>
     </li>
@@ -58,7 +58,7 @@
     Guess {{ guess_count }} / {{ max_guesses }}
 </div>
 
-<form method="POST" action="/Wordlemon">
+<form method="POST" action="{{ url_for('wordlemon', _external=False) }}">
     <input
         type="text"
         name="guess"
