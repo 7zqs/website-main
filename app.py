@@ -13,6 +13,28 @@ ATTRIBUTE_ORDER = [
     "Generation",
 ]
 
+TYPE_COLORS = {
+    "fire": "#F08030",
+    "water": "#6890F0",
+    "grass": "#78C850",
+    "electric": "#F8D030",
+    "psychic": "#F85888",
+    "ice": "#98D8D8",
+    "dragon": "#7038F8",
+    "dark": "#1E150F",
+    "fairy": "#EE99AC",
+    "normal": "#A8A878",
+    "fighting": "#C03028",
+    "flying": "#A890F0",
+    "poison": "#A040A0",
+    "ground": "#E0C068",
+    "rock": "#B8A038",
+    "bug": "#A8B820",
+    "ghost": "#705898",
+    "steel": "#B8B8D0",
+}
+
+app.config['SERVER_NAME'] = 'localhost:5000'
 
 # ---------- LOAD DATA ----------
 def load_pokemon(path="pkmn.json"):
@@ -115,14 +137,14 @@ def wordlemon():
                     session["guessed_species"] = guessed_species
 
                     guesses = session.get("guesses", [])
-                    guesses.insert(0, (guess["name"], result))  # keep full form name for display
+                    guesses.insert(0, (guess["name"], result, guess["types"]))  # keep full form name for display
                     session["guesses"] = guesses
 
                     guess_count = len(session["guesses"])
                     if guess_count >= MAX_GUESSES:
                         finished_target = session["target"]
 
-                        message = "Game over!"
+                        message = "Game over!\nCorrect Pokémon:"
                         session["finished_target"] = finished_target
 
                         session.pop("target", None)
@@ -142,10 +164,10 @@ def wordlemon():
 
     if finished_target:
         target = pokemon_by_name[finished_target.lower()]
-
         finished_card = (
             target["name"],
-            evaluate_guess(target, target)  # self compare = all green
+            evaluate_guess(target, target),  # self compare = all green
+            target["types"]                   # <-- add types here
         )
 
 
@@ -158,17 +180,16 @@ def wordlemon():
         max_guesses=MAX_GUESSES,
         all_pokemon_names=all_pokemon_names,
         finished_target=session.get("finished_target"),
-        finished_card=finished_card
+        finished_card=finished_card,
+        type_colors=TYPE_COLORS
     )
 # --------------------------------------------------
 @app.route("/", methods=["GET", "POST"])
 def index():
-    
+    session.clear()
     return render_template(
         "index.html"
     )
-    
-
 
 if __name__ == "__main__":
     app.run(debug=True)

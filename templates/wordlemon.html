@@ -5,14 +5,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../static/main.css">
-    <title>Website :3</title>
+    <link rel="stylesheet" href="../static/wordlemon.css">
+    <title>Wordlemon</title>
 </head>
 
 <body>
 
 <div class="header">
-    <h1 class="title">Website :3</h1>
+    <h1 class="title">Wordlemon</h1>
 </div>
 
 <div class="main">
@@ -44,22 +44,115 @@
 </nav>
 
 <div class="main-box">
-<h1 class="box-title">Information</h1>
-<p class="main-paragraph">
-    blah blah blah games and other stuffAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-    <img src="/home/kiri/Pictures/Screenshots/Screenshot_20250409_175323.png" alt=""><br>
-    :thumbsup:<br>A<br>A<br>A<br>A<br>A<br>A<br>A<br>A<br>A<br>A<br>A<br>A<br>A<br>A<br>A<br>A<br>A<br>A<br>A
+    <h1 class="box-title">Information</h1>
+<p class="wordlemon-info">
+    This game is about guessing Pokémon based on their given attributes.<br>
+    Start the game by guessing a Pokémon's Name, and see how close their attributes are to the correct Pokémon.<br>
+    This game includes gen 1-5 Pokémon, no pokemon above gen 5 are included.<br>
+    🟥 -> Entirely wrong. <br>
+    🟧 -> within 100. (For BST only.) <br>
+    🟨 -> Partially correct. (within 50 for BST) <br>
+    🟩 -> Correct. <br>
 </p>
+<div class="counter">
+    Guess {{ guess_count }} / {{ max_guesses }}
+</div>
+
+<form method="POST" action="/Wordlemon">
+    <input
+        type="text"
+        name="guess"
+        id="guess-input"
+        list="pokemon-list"
+        autocomplete="on"
+        required
+    >
+    <datalist id="pokemon-list">
+        {% for name in all_pokemon_names %}
+            <option value="{{ name }}">
+        {% endfor %}
+    </datalist>
+    <button type="submit">Guess</button>
+</form>
+
+{% if message %}
+<p class="message">{{ message }}</p>
+{% endif %}
+
+{% if finished_card %}
+<div class="guess-container-grid">
+    {% set name, result, types = finished_card %}
+    <div class="pokemon-card winner-card"
+         style="--type1: {{ type_colors[types[0]|lower] }};
+                --type2: {% if types|length > 1 %}{{ type_colors[types[1]|lower] }}{% else %}transparent{% endif %};">
+        <div class="card-header">
+            <div class="header-bg">
+                <h2>{{ name.capitalize() }}</h2>
+            </div>
+        </div>
+        <img class="sprite"
+             src="{{ url_for('static', filename='gifs/' + name|lower + '.gif') }}">
+        
+
+        <div class="card-body">
+            {% for attr in attribute_order %}
+                <div class="stat-row {{ result[attr][0] }}">
+                    <span class="stat-name">{{ attr }}</span>
+                    <span class="stat-value">{{ result[attr][1] }}</span>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endif %}
+
+
+<div class="guess-container-grid">
+    {% for name, result, types in guesses %}
+        {% if types|length == 2 %}
+        <div class="pokemon-card"
+            style="--type1: {{ type_colors[types[0]|lower] }};
+                    --type2: {{ type_colors[types[1]|lower] }};">
+        {% else %}
+        <div class="pokemon-card"
+            style="--type1: {{ type_colors[types[0]|lower] }};
+                    --type2: transparent;">
+        {% endif %}
+            <div class="card-header">
+                     <div class="header-bg">
+                        <h2>{{ name.capitalize() }}</h2>
+                     </div>
+            </div>
+            <img class="sprite" src="{{ url_for('static', filename='gifs/' + name|lower + '.gif') }}">
+            <div class="card-body">
+                {% for attr in attribute_order %}
+                    <div class="stat-row {{ result[attr][0] }}">
+                        <span class="stat-name">{{ attr }}</span>
+                        <span class="stat-value">{{ result[attr][1] }}</span>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    {% endfor %}
+</div>
+
 </div>
 
 </div>
 
 </body>
 
-<div class="footer">
-<p class="footer-text">
-    basic footer text lololololo
-</p>
-</div>
+{% include "footer.html" %}
 
 </html>
+
+<script>
+const input = document.getElementById("guess-input");
+const names = {{ all_pokemon_names | tojson | safe }};
+input.addEventListener("input", function() {
+    const val = this.value.toLowerCase();
+    const suggestions = names.filter(n => n.toLowerCase().startsWith(val)).slice(0, 10);
+    // This is just a simple suggestion console.log
+    console.log(suggestions);
+});
+</script>
